@@ -27,8 +27,7 @@
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenHeight = screenRect.size.height;
     
-	// Do any additional setup after loading the view, typically from a nib.
-    
+	// the band name uilabel that will dynamically change its text content
     self.labelBandName = [[UILabel alloc] initWithFrame:CGRectMake(40.0f, 0.0f, 300.0f, 250.0f)];
     self.labelBandName.center = self.view.center;
     self.labelBandName.textColor = [UIColor whiteColor];
@@ -112,6 +111,9 @@
     NSString *adjective = [self getRandomStringFromArray:adjectives];
     NSString *noun = [self getRandomStringFromArray:nouns];
     
+    // concatenate adjective and noun to form band name
+    NSString *bandName = [NSString stringWithFormat:@"%@\n%@", adjective, noun];
+    
     // max length of any single word
     NSInteger maxLength = 13;
     
@@ -120,7 +122,14 @@
         return [self getRandomBandName];
     }
     
-    NSString *bandName = [NSString stringWithFormat:@"%@\n%@", adjective, noun];
+    // if band name contains invalid characters, try again
+    NSString *invalidCharacters = @"-";
+    NSCharacterSet *cset = [NSCharacterSet characterSetWithCharactersInString:invalidCharacters];
+    NSRange range = [bandName rangeOfCharacterFromSet:cset];
+    if (range.location != NSNotFound) {
+        return [self getRandomBandName];
+    }
+    
     return bandName;
 }
 
