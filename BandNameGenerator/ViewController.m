@@ -43,7 +43,7 @@
     [self.view addGestureRecognizer:gr];
     
     //add background image
-    UIImage *background = [UIImage imageNamed: @"background-screen.png"];
+    UIImage *background = [UIImage imageNamed: @"Background.png"];
     UIImageView *imageView = [[UIImageView alloc] initWithImage: background];
     
     [self.view addSubview:imageView];

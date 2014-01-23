@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9D2C09D41890B81A00F08B90 /* background-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D2C09D31890B81A00F08B90 /* background-screen.png */; };
 		9D9124381890BC62002AFDDE /* LaunchImageRetina.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9124361890BC62002AFDDE /* LaunchImageRetina.png */; };
 		9D9124391890BC62002AFDDE /* LaunchImageRetina4Inch.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */; };
 		9DFFDF92187CDFA0008D68DD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DFFDF91187CDFA0008D68DD /* Foundation.framework */; };
@@ -26,6 +25,8 @@
 		9DFFDFBE187CDFA0008D68DD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9DFFDFBC187CDFA0008D68DD /* InfoPlist.strings */; };
 		9DFFDFC0187CDFA0008D68DD /* BandNameGeneratorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DFFDFBF187CDFA0008D68DD /* BandNameGeneratorTests.m */; };
 		9DFFDFCC187CEF69008D68DD /* WordsDictionary.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9DFFDFCB187CEF69008D68DD /* WordsDictionary.plist */; };
+		D6558B6E18915C7600283392 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D6558B6D18915C7600283392 /* Default-568h@2x.png */; };
+		D6558B72189161B700283392 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = D6558B71189161B700283392 /* Background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +40,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9D2C09D31890B81A00F08B90 /* background-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "background-screen.png"; path = "../../../../../Users/cbranum/Downloads/band-name-2/background-screen.png"; sourceTree = "<group>"; };
 		9D9124361890BC62002AFDDE /* LaunchImageRetina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImageRetina.png; path = BandNameGenerator/LaunchImageRetina.png; sourceTree = "<group>"; };
 		9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImageRetina4Inch.png; path = BandNameGenerator/LaunchImageRetina4Inch.png; sourceTree = "<group>"; };
 		9DFFDF8E187CDFA0008D68DD /* BandNameGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BandNameGenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -63,6 +63,8 @@
 		9DFFDFBD187CDFA0008D68DD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9DFFDFBF187CDFA0008D68DD /* BandNameGeneratorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BandNameGeneratorTests.m; sourceTree = "<group>"; };
 		9DFFDFCB187CEF69008D68DD /* WordsDictionary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = WordsDictionary.plist; sourceTree = "<group>"; };
+		D6558B6D18915C7600283392 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		D6558B71189161B700283392 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = BandNameGenerator/Background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,8 @@
 		9DFFDF85187CDFA0008D68DD = {
 			isa = PBXGroup;
 			children = (
+				D6558B71189161B700283392 /* Background.png */,
+				D6558B6D18915C7600283392 /* Default-568h@2x.png */,
 				9D9124361890BC62002AFDDE /* LaunchImageRetina.png */,
 				9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */,
 				9DFFDF97187CDFA0008D68DD /* BandNameGenerator */,
@@ -139,7 +143,6 @@
 		9DFFDF98187CDFA0008D68DD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9D2C09D31890B81A00F08B90 /* background-screen.png */,
 				9DFFDF99187CDFA0008D68DD /* BandNameGenerator-Info.plist */,
 				9DFFDF9A187CDFA0008D68DD /* InfoPlist.strings */,
 				9DFFDF9D187CDFA0008D68DD /* main.m */,
@@ -244,11 +247,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DFFDFA8187CDFA0008D68DD /* Main_iPad.storyboard in Resources */,
-				9D2C09D41890B81A00F08B90 /* background-screen.png in Resources */,
+				D6558B6E18915C7600283392 /* Default-568h@2x.png in Resources */,
 				9DFFDFAD187CDFA0008D68DD /* Images.xcassets in Resources */,
 				9D9124381890BC62002AFDDE /* LaunchImageRetina.png in Resources */,
 				9D9124391890BC62002AFDDE /* LaunchImageRetina4Inch.png in Resources */,
 				9DFFDFA5187CDFA0008D68DD /* Main_iPhone.storyboard in Resources */,
+				D6558B72189161B700283392 /* Background.png in Resources */,
 				9DFFDF9C187CDFA0008D68DD /* InfoPlist.strings in Resources */,
 				9DFFDFCC187CEF69008D68DD /* WordsDictionary.plist in Resources */,
 			);
