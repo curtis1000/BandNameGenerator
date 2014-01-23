@@ -58,7 +58,6 @@
     // if the image is taller than the view, origin.y should be -1 * (half the image height - half the view height)
     if (imageHeight > screenHeight) {
         CGFloat originY = -1 * (imageHeight/2 - screenHeight/2);
-        NSLog(@"originY: %f", originY);
         frame.origin.y = originY;
     }
     imageView.frame = frame;
@@ -71,12 +70,12 @@
     lineView1.backgroundColor = lineColor;
     [self.view addSubview:lineView1];
     
-    UIView *lineView2 = [[UIView alloc] initWithFrame:CGRectMake(lineMargin, (self.view.bounds.size.height * .67), self.view.bounds.size.width - (lineMargin * 2), 1)];
+    UIView *lineView2 = [[UIView alloc] initWithFrame:CGRectMake(lineMargin, (self.view.bounds.size.height * .66), self.view.bounds.size.width - (lineMargin * 2), 1)];
     lineView2.backgroundColor = lineColor;
     [self.view addSubview:lineView2];
     
     // footer text
-    UILabel *footerText = [[UILabel alloc] initWithFrame:CGRectMake(8.0f, (self.view.bounds.size.height * .67), 300.0f, 50.0f)];
+    UILabel *footerText = [[UILabel alloc] initWithFrame:CGRectMake(8.0f, (self.view.bounds.size.height * .9), 300.0f, 50.0f)];
     footerText.textColor = [UIColor whiteColor];
     [footerText setFont:[UIFont fontWithName:@"GillSans-Light" size:18]];
     footerText.textAlignment = NSTextAlignmentCenter;
@@ -112,6 +111,14 @@
     
     NSString *adjective = [self getRandomStringFromArray:adjectives];
     NSString *noun = [self getRandomStringFromArray:nouns];
+    
+    // max length of any single word
+    NSInteger maxLength = 16;
+    
+    // if either word exceeds max length, try again
+    if ([adjective length] > maxLength || [noun length] > maxLength) {
+        return [self getRandomBandName];
+    }
     
     NSString *bandName = [NSString stringWithFormat:@"%@\n%@", adjective, noun];
     return bandName;
