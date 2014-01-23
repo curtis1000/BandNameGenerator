@@ -113,7 +113,7 @@
     NSString *noun = [self getRandomStringFromArray:nouns];
     
     // max length of any single word
-    NSInteger maxLength = 16;
+    NSInteger maxLength = 13;
     
     // if either word exceeds max length, try again
     if ([adjective length] > maxLength || [noun length] > maxLength) {
