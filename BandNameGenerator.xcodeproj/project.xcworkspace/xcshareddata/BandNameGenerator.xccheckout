@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4F283B08-765A-4329-89F0-AAE5450E9E42</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BandNameGenerator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E70BC5AF-E45D-4FF0-9D16-4A9135820F2A</key>
+		<string>https://github.com/curtis1000/BandNameGenerator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BandNameGenerator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E70BC5AF-E45D-4FF0-9D16-4A9135820F2A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/curtis1000/BandNameGenerator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E70BC5AF-E45D-4FF0-9D16-4A9135820F2A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E70BC5AF-E45D-4FF0-9D16-4A9135820F2A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BandNameGenerator</string>
+		</dict>
+	</array>
+</dict>
+</plist>

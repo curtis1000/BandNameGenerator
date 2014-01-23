@@ -18,6 +18,11 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    CGRect screenRect = [[UIScreen mainScreen] bounds];
+    CGFloat screenWidth = screenRect.size.width;
+    CGFloat screenHeight = screenRect.size.height;
+    
 	// Do any additional setup after loading the view, typically from a nib.
     
     self.buttonGenerate = [UIButton buttonWithType:UIButtonTypeRoundedRect];
@@ -31,6 +36,53 @@
     
     // setup event handler
     [self.buttonGenerate addTarget:self action:@selector(handleGenerate:) forControlEvents:UIControlEventTouchUpInside];
+    
+    // default background color
+    // self.view.backgroundColor = [UIColor darkGrayColor];
+    
+    //add background image
+    UIImage *background = [UIImage imageNamed: @"background-screen.png"];
+    UIImageView *imageView = [[UIImageView alloc] initWithImage: background];
+    
+    [self.view addSubview:imageView];
+    [self.view sendSubviewToBack:imageView];
+    
+    //NSLog(@"%f", self.view.bounds.size.height);
+    
+    
+    // scale/align background - we want 100% width and vertical center
+    imageView.contentMode = UIViewContentModeScaleAspectFit;
+    CGRect frame = imageView.frame;
+    frame.size.width = self.view.bounds.size.width;
+    
+    CGFloat imageHeight = frame.size.height;
+    CGFloat imageWidth = frame.size.width;
+
+    
+    NSLog(@"image size height: %f", imageHeight);
+    NSLog(@"image size width: %f", imageWidth);
+    NSLog(@"screen height: %f", screenHeight);
+    NSLog(@"screen width: %f", screenWidth);
+    
+    // if the image is taller than the view, origin.y should be -1 * (half the image height - half the view height)
+    
+    if (imageHeight > screenHeight) {
+        CGFloat originY = -1 * (imageHeight/2 - screenHeight/2);
+        NSLog(@"originY: %f", originY);
+        frame.origin.y = originY;
+    }
+    
+    // if the view is wider than the image, scale the image up
+    
+    if (screenWidth > imageWidth) {
+        float ratio = screenWidth / imageWidth;
+        frame.size.height *= ratio;
+        frame.size.width *= ratio;
+    }
+    
+    imageView.frame = frame;
+    
+    
 }
 
 - (void)handleGenerate: (UIButton *)buttonParam

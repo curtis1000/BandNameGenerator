@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D2C09D41890B81A00F08B90 /* background-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D2C09D31890B81A00F08B90 /* background-screen.png */; };
+		9D9124381890BC62002AFDDE /* LaunchImageRetina.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9124361890BC62002AFDDE /* LaunchImageRetina.png */; };
+		9D9124391890BC62002AFDDE /* LaunchImageRetina4Inch.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */; };
 		9DFFDF92187CDFA0008D68DD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DFFDF91187CDFA0008D68DD /* Foundation.framework */; };
 		9DFFDF94187CDFA0008D68DD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DFFDF93187CDFA0008D68DD /* CoreGraphics.framework */; };
 		9DFFDF96187CDFA0008D68DD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DFFDF95187CDFA0008D68DD /* UIKit.framework */; };
@@ -36,6 +39,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9D2C09D31890B81A00F08B90 /* background-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "background-screen.png"; path = "../../../../../Users/cbranum/Downloads/band-name-2/background-screen.png"; sourceTree = "<group>"; };
+		9D9124361890BC62002AFDDE /* LaunchImageRetina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImageRetina.png; path = BandNameGenerator/LaunchImageRetina.png; sourceTree = "<group>"; };
+		9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImageRetina4Inch.png; path = BandNameGenerator/LaunchImageRetina4Inch.png; sourceTree = "<group>"; };
 		9DFFDF8E187CDFA0008D68DD /* BandNameGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BandNameGenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DFFDF91187CDFA0008D68DD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9DFFDF93187CDFA0008D68DD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -86,6 +92,8 @@
 		9DFFDF85187CDFA0008D68DD = {
 			isa = PBXGroup;
 			children = (
+				9D9124361890BC62002AFDDE /* LaunchImageRetina.png */,
+				9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */,
 				9DFFDF97187CDFA0008D68DD /* BandNameGenerator */,
 				9DFFDFB9187CDFA0008D68DD /* BandNameGeneratorTests */,
 				9DFFDF90187CDFA0008D68DD /* Frameworks */,
@@ -131,6 +139,7 @@
 		9DFFDF98187CDFA0008D68DD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9D2C09D31890B81A00F08B90 /* background-screen.png */,
 				9DFFDF99187CDFA0008D68DD /* BandNameGenerator-Info.plist */,
 				9DFFDF9A187CDFA0008D68DD /* InfoPlist.strings */,
 				9DFFDF9D187CDFA0008D68DD /* main.m */,
@@ -235,7 +244,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DFFDFA8187CDFA0008D68DD /* Main_iPad.storyboard in Resources */,
+				9D2C09D41890B81A00F08B90 /* background-screen.png in Resources */,
 				9DFFDFAD187CDFA0008D68DD /* Images.xcassets in Resources */,
+				9D9124381890BC62002AFDDE /* LaunchImageRetina.png in Resources */,
+				9D9124391890BC62002AFDDE /* LaunchImageRetina4Inch.png in Resources */,
 				9DFFDFA5187CDFA0008D68DD /* Main_iPhone.storyboard in Resources */,
 				9DFFDF9C187CDFA0008D68DD /* InfoPlist.strings in Resources */,
 				9DFFDFCC187CEF69008D68DD /* WordsDictionary.plist in Resources */,
@@ -395,7 +407,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BandNameGenerator/BandNameGenerator-Prefix.pch";
 				INFOPLIST_FILE = "BandNameGenerator/BandNameGenerator-Info.plist";
@@ -408,7 +419,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BandNameGenerator/BandNameGenerator-Prefix.pch";
 				INFOPLIST_FILE = "BandNameGenerator/BandNameGenerator-Info.plist";
@@ -478,6 +488,7 @@
 				9DFFDFC5187CDFA0008D68DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9DFFDFC6187CDFA0008D68DD /* Build configuration list for PBXNativeTarget "BandNameGeneratorTests" */ = {
 			isa = XCConfigurationList;
@@ -486,6 +497,7 @@
 				9DFFDFC8187CDFA0008D68DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -5,7 +5,6 @@
 	<key>Nouns</key>
 	<array>
 		<string>4-F</string>
-		<string>4-H'er</string>
 		<string>A</string>
 		<string>A-1</string>
 		<string>A-axis</string>
@@ -189,7 +188,7 @@
 		<string>Aarhus</string>
 		<string>Aarika</string>
 		<string>Aaron</string>
-		<string>Aaron's-beard</string>
+		<string>Aaron&apos;s-beard</string>
 		<string>Aaronite</string>
 		<string>Aaronson</string>
 		<string>Ab</string>
@@ -419,7 +418,7 @@
 		<string>Adaline</string>
 		<string>Adall</string>
 		<string>Adallard</string>
-		<string>Adam's-needle</string>
+		<string>Adam&apos;s-needle</string>
 		<string>Adam-and-Eve</string>
 		<string>Adama</string>
 		<string>Adamas</string>
@@ -3494,7 +3493,7 @@
 		<string>Bagpuize</string>
 		<string>Bagritski</string>
 		<string>Baguio</string>
-		<string>Baha'ullah</string>
+		<string>Baha&apos;ullah</string>
 		<string>Bahaism</string>
 		<string>Bahawalpur</string>
 		<string>Bahcaesm</string>
@@ -5250,7 +5249,7 @@
 		<string>Bophuthatswana</string>
 		<string>Bopp</string>
 		<string>Bor</string>
-		<string>Bor'</string>
+		<string>Bor&apos;</string>
 		<string>Bora</string>
 		<string>Borah</string>
 		<string>Borchers</string>
@@ -6730,7 +6729,7 @@
 		<string>Canute</string>
 		<string>Canyon</string>
 		<string>Caodaism</string>
-		<string>Cap'n</string>
+		<string>Cap&apos;n</string>
 		<string>Cap-Haitien</string>
 		<string>Capablanca</string>
 		<string>Capaneus</string>
@@ -7345,10 +7344,10 @@
 		<string>Ceyx</string>
 		<string>Cf</string>
 		<string>Ch</string>
-		<string>Ch'an</string>
-		<string>Ch'in</string>
-		<string>Ch'ing</string>
-		<string>Ch'ing-yan</string>
+		<string>Ch&apos;an</string>
+		<string>Ch&apos;in</string>
+		<string>Ch&apos;ing</string>
+		<string>Ch&apos;ing-yan</string>
 		<string>ChB</string>
 		<string>ChE</string>
 		<string>Cha</string>
@@ -7804,7 +7803,7 @@
 		<string>Chindit</string>
 		<string>Chindwin</string>
 		<string>Chinee</string>
-		<string>Ching-t'u</string>
+		<string>Ching-t&apos;u</string>
 		<string>Chinghai</string>
 		<string>Chingtao</string>
 		<string>Chinkiang</string>
@@ -7894,7 +7893,7 @@
 		<string>Chrisse</string>
 		<string>Chrissie</string>
 		<string>Chrissy</string>
-		<string>Christ's-thorn</string>
+		<string>Christ&apos;s-thorn</string>
 		<string>Christa</string>
 		<string>Christabel</string>
 		<string>Christabella</string>
@@ -8931,7 +8930,7 @@
 		<string>Cot</string>
 		<string>Cotabato</string>
 		<string>Cote</string>
-		<string>Cote-d'Or</string>
+		<string>Cote-d&apos;Or</string>
 		<string>Cotes-du-Nord</string>
 		<string>Cotman</string>
 		<string>Cotonou</string>
@@ -9299,7 +9298,7 @@
 		<string>Cupavo</string>
 		<string>Cupertino</string>
 		<string>Cupid</string>
-		<string>Cupid's-dart</string>
+		<string>Cupid&apos;s-dart</string>
 		<string>Cupo</string>
 		<string>Curacao</string>
 		<string>Curaiao</string>
@@ -9438,15 +9437,15 @@
 		<string>Czstochowa</string>
 		<string>Czur</string>
 		<string>D</string>
-		<string>D'Amboise</string>
-		<string>D'Annunzio</string>
-		<string>D'Arcy</string>
-		<string>D'Arrest</string>
-		<string>D'Avenant</string>
-		<string>D'Iberville</string>
-		<string>D'Inzeo</string>
-		<string>D'Urfey</string>
-		<string>D's</string>
+		<string>D&apos;Amboise</string>
+		<string>D&apos;Annunzio</string>
+		<string>D&apos;Arcy</string>
+		<string>D&apos;Arrest</string>
+		<string>D&apos;Avenant</string>
+		<string>D&apos;Iberville</string>
+		<string>D&apos;Inzeo</string>
+		<string>D&apos;Urfey</string>
+		<string>D&apos;s</string>
 		<string>D-day</string>
 		<string>D-notice</string>
 		<string>D-state</string>
@@ -11243,8 +11242,8 @@
 		<string>Dusty</string>
 		<string>Dusza</string>
 		<string>Dutchman</string>
-		<string>Dutchman's-breeches</string>
-		<string>Dutchman's-pipe</string>
+		<string>Dutchman&apos;s-breeches</string>
+		<string>Dutchman&apos;s-pipe</string>
 		<string>Duthie</string>
 		<string>Duval</string>
 		<string>Duvalier</string>
@@ -14513,7 +14512,7 @@
 		<string>Gdel</string>
 		<string>Gdynia</string>
 		<string>Ge</string>
-		<string>Ge'ez</string>
+		<string>Ge&apos;ez</string>
 		<string>GeV</string>
 		<string>Geaghan</string>
 		<string>Gean</string>
@@ -16163,7 +16162,7 @@
 		<string>Hallie</string>
 		<string>Halliwell</string>
 		<string>Hallock</string>
-		<string>Hallowe'en</string>
+		<string>Hallowe&apos;en</string>
 		<string>Halloween</string>
 		<string>Hallowell</string>
 		<string>Hallowmas</string>
@@ -16964,7 +16963,7 @@
 		<string>Herculaneum</string>
 		<string>Hercule</string>
 		<string>Hercules</string>
-		<string>Hercules'-club</string>
+		<string>Hercules&apos;-club</string>
 		<string>Herculie</string>
 		<string>Hercyna</string>
 		<string>Herder</string>
@@ -17960,10 +17959,10 @@
 		<string>Hyrnetho</string>
 		<string>Hyrtius</string>
 		<string>Hyrup</string>
-		<string>I'd</string>
-		<string>I'll</string>
-		<string>I'm</string>
-		<string>I've</string>
+		<string>I&apos;d</string>
+		<string>I&apos;ll</string>
+		<string>I&apos;m</string>
+		<string>I&apos;ve</string>
 		<string>I-beam</string>
 		<string>I-go</string>
 		<string>I-spy</string>
@@ -18641,7 +18640,7 @@
 		<string>Ithomatas</string>
 		<string>Ithome</string>
 		<string>Ithunn</string>
-		<string>Ithuriel's-spear</string>
+		<string>Ithuriel&apos;s-spear</string>
 		<string>Itin</string>
 		<string>Itnez</string>
 		<string>Ito</string>
@@ -18775,7 +18774,7 @@
 		<string>Jacmel</string>
 		<string>Jaco</string>
 		<string>Jacob</string>
-		<string>Jacob's-ladder</string>
+		<string>Jacob&apos;s-ladder</string>
 		<string>Jacoba</string>
 		<string>Jacobah</string>
 		<string>Jacobba</string>
@@ -19351,7 +19350,7 @@
 		<string>Joash</string>
 		<string>Joashus</string>
 		<string>Job</string>
-		<string>Job's-tears</string>
+		<string>Job&apos;s-tears</string>
 		<string>Jobcentre</string>
 		<string>Jobe</string>
 		<string>Jobey</string>
@@ -19523,11 +19522,11 @@
 		<string>Joselyn</string>
 		<string>Josep</string>
 		<string>Joseph</string>
-		<string>Joseph's-coat</string>
+		<string>Joseph&apos;s-coat</string>
 		<string>Josepha</string>
 		<string>Josephina</string>
 		<string>Josephine</string>
-		<string>Josephine's-lily</string>
+		<string>Josephine&apos;s-lily</string>
 		<string>Josephson</string>
 		<string>Josephus</string>
 		<string>Joser</string>
@@ -19686,7 +19685,7 @@
 		<string>Juno</string>
 		<string>Junot</string>
 		<string>Jupiter</string>
-		<string>Jupiter's-beard</string>
+		<string>Jupiter&apos;s-beard</string>
 		<string>Jura</string>
 		<string>Jurdi</string>
 		<string>Jurez</string>
@@ -19724,7 +19723,7 @@
 		<string>Jylland</string>
 		<string>Jymmye</string>
 		<string>K</string>
-		<string>K'ang-te</string>
+		<string>K&apos;ang-te</string>
 		<string>K-line</string>
 		<string>K-meson</string>
 		<string>K-radiation</string>
@@ -21423,15 +21422,15 @@
 		<string>Kyushu</string>
 		<string>Kyzyl</string>
 		<string>L</string>
-		<string>L'Allegro</string>
-		<string>L'Aquila</string>
-		<string>L'Avare</string>
-		<string>L'Enfant</string>
-		<string>L'Etranger</string>
-		<string>L'Hospital</string>
-		<string>L'Immoraliste</string>
-		<string>L'Otage</string>
-		<string>L'Ouverture</string>
+		<string>L&apos;Allegro</string>
+		<string>L&apos;Aquila</string>
+		<string>L&apos;Avare</string>
+		<string>L&apos;Enfant</string>
+		<string>L&apos;Etranger</string>
+		<string>L&apos;Hospital</string>
+		<string>L&apos;Immoraliste</string>
+		<string>L&apos;Otage</string>
+		<string>L&apos;Ouverture</string>
 		<string>L-dopa</string>
 		<string>L-line</string>
 		<string>L-radiation</string>
@@ -21668,7 +21667,7 @@
 		<string>Lanark</string>
 		<string>Lancashire</string>
 		<string>Lancaster</string>
-		<string>Lancaster'</string>
+		<string>Lancaster&apos;</string>
 		<string>Lance</string>
 		<string>Lancelle</string>
 		<string>Lancelot</string>
@@ -21700,7 +21699,7 @@
 		<string>Landry</string>
 		<string>Landseer</string>
 		<string>Landshut</string>
-		<string>Landsm'</string>
+		<string>Landsm&apos;</string>
 		<string>Landsmal</string>
 		<string>Landsman</string>
 		<string>Landsteiner</string>
@@ -22876,7 +22875,7 @@
 		<string>Llewellyn</string>
 		<string>Llovera</string>
 		<string>Lloyd</string>
-		<string>Lloyd's</string>
+		<string>Lloyd&apos;s</string>
 		<string>Llud</string>
 		<string>Llyr</string>
 		<string>Llywellyn</string>
@@ -23040,7 +23039,7 @@
 		<string>Loram</string>
 		<string>Lorant</string>
 		<string>Lorca</string>
-		<string>Lord's</string>
+		<string>Lord&apos;s</string>
 		<string>Lordan</string>
 		<string>Lords</string>
 		<string>Lordsburg</string>
@@ -23544,9 +23543,9 @@
 		<string>Lyudmila</string>
 		<string>Lzen</string>
 		<string>M</string>
-		<string>M'</string>
-		<string>M'Ba</string>
-		<string>M'sieur</string>
+		<string>M&apos;</string>
+		<string>M&apos;Ba</string>
+		<string>M&apos;sieur</string>
 		<string>M-16</string>
 		<string>M-day</string>
 		<string>M-line</string>
@@ -23801,7 +23800,7 @@
 		<string>Macomber</string>
 		<string>Macon</string>
 		<string>Macpherson</string>
-		<string>Macquarie'</string>
+		<string>Macquarie&apos;</string>
 		<string>Macready</string>
 		<string>Macri</string>
 		<string>Macrobius</string>
@@ -24628,7 +24627,7 @@
 		<string>Martie</string>
 		<string>Martijn</string>
 		<string>Martin</string>
-		<string>Martin'</string>
+		<string>Martin&apos;</string>
 		<string>Martina</string>
 		<string>Martine</string>
 		<string>Martineau</string>
@@ -27168,7 +27167,7 @@
 		<string>Nerland</string>
 		<string>Nernst</string>
 		<string>Nero</string>
-		<string>Nero's-crown</string>
+		<string>Nero&apos;s-crown</string>
 		<string>Neron</string>
 		<string>Neruda</string>
 		<string>Nerva</string>
@@ -27725,7 +27724,7 @@
 		<string>Nugent</string>
 		<string>Nuggerath</string>
 		<string>Nuits-Saint-Georges</string>
-		<string>Nuku'alofa</string>
+		<string>Nuku&apos;alofa</string>
 		<string>Nukus</string>
 		<string>Nuli</string>
 		<string>Numantia</string>
@@ -27779,39 +27778,39 @@
 		<string>Nysa</string>
 		<string>Nyssa</string>
 		<string>Nyx</string>
-		<string>O'</string>
-		<string>O'Boyle</string>
-		<string>O'Brien</string>
-		<string>O'Callaghan</string>
-		<string>O'Carroll</string>
-		<string>O'Casey</string>
-		<string>O'Connell</string>
-		<string>O'Conner</string>
-		<string>O'Connor</string>
-		<string>O'Dell</string>
-		<string>O'Doneven</string>
-		<string>O'Donnell</string>
-		<string>O'Donoghue</string>
-		<string>O'Donovan</string>
-		<string>O'Driscoll</string>
-		<string>O'Fallon</string>
-		<string>O'Faolcin</string>
-		<string>O'Fiaich</string>
-		<string>O'Gowan</string>
-		<string>O'Grady</string>
-		<string>O'Hara</string>
-		<string>O'Higgins</string>
-		<string>O'Keeffe</string>
-		<string>O'Kelley</string>
-		<string>O'Kelly</string>
-		<string>O'Mahony</string>
-		<string>O'Malley</string>
-		<string>O'Neil</string>
-		<string>O'Neill</string>
-		<string>O'Reilly</string>
-		<string>O'Rourke</string>
-		<string>O'Shee</string>
-		<string>O'Toole</string>
+		<string>O&apos;</string>
+		<string>O&apos;Boyle</string>
+		<string>O&apos;Brien</string>
+		<string>O&apos;Callaghan</string>
+		<string>O&apos;Carroll</string>
+		<string>O&apos;Casey</string>
+		<string>O&apos;Connell</string>
+		<string>O&apos;Conner</string>
+		<string>O&apos;Connor</string>
+		<string>O&apos;Dell</string>
+		<string>O&apos;Doneven</string>
+		<string>O&apos;Donnell</string>
+		<string>O&apos;Donoghue</string>
+		<string>O&apos;Donovan</string>
+		<string>O&apos;Driscoll</string>
+		<string>O&apos;Fallon</string>
+		<string>O&apos;Faolcin</string>
+		<string>O&apos;Fiaich</string>
+		<string>O&apos;Gowan</string>
+		<string>O&apos;Grady</string>
+		<string>O&apos;Hara</string>
+		<string>O&apos;Higgins</string>
+		<string>O&apos;Keeffe</string>
+		<string>O&apos;Kelley</string>
+		<string>O&apos;Kelly</string>
+		<string>O&apos;Mahony</string>
+		<string>O&apos;Malley</string>
+		<string>O&apos;Neil</string>
+		<string>O&apos;Neill</string>
+		<string>O&apos;Reilly</string>
+		<string>O&apos;Rourke</string>
+		<string>O&apos;Shee</string>
+		<string>O&apos;Toole</string>
 		<string>OAO</string>
 		<string>OAS</string>
 		<string>OB</string>
@@ -28614,8 +28613,8 @@
 		<string>Ozzie</string>
 		<string>Ozzy</string>
 		<string>P</string>
-		<string>P'an-ku</string>
-		<string>P'eng-hu</string>
+		<string>P&apos;an-ku</string>
+		<string>P&apos;eng-hu</string>
 		<string>P-state</string>
 		<string>P/C</string>
 		<string>PA</string>
@@ -30497,7 +30496,7 @@
 		<string>Pru</string>
 		<string>Pruchno</string>
 		<string>Prud</string>
-		<string>Prud'hon</string>
+		<string>Prud&apos;hon</string>
 		<string>Prudence</string>
 		<string>Prudentius</string>
 		<string>Prudhoe</string>
@@ -30716,7 +30715,7 @@
 		<string>Quebecer</string>
 		<string>Quechua</string>
 		<string>Queen</string>
-		<string>Queen's-flower</string>
+		<string>Queen&apos;s-flower</string>
 		<string>Queena</string>
 		<string>Queenie</string>
 		<string>Queens</string>
@@ -30791,7 +30790,7 @@
 		<string>Qulllon</string>
 		<string>Qum</string>
 		<string>Qumran</string>
-		<string>Qur'an</string>
+		<string>Qur&apos;an</string>
 		<string>Quran</string>
 		<string>Qutb</string>
 		<string>R</string>
@@ -31667,7 +31666,7 @@
 		<string>Riki</string>
 		<string>Rikki</string>
 		<string>Riksdag</string>
-		<string>Riksm'</string>
+		<string>Riksm&apos;</string>
 		<string>Rilda</string>
 		<string>Riley</string>
 		<string>Rilke</string>
@@ -34838,10 +34837,10 @@
 		<string>St</string>
 		<string>St-Etienne</string>
 		<string>St-Germain-en-Laye</string>
-		<string>St-James's-flower</string>
-		<string>St-James's-pea</string>
-		<string>St-John's-wort</string>
-		<string>St-Joseph's-wand</string>
+		<string>St-James&apos;s-flower</string>
+		<string>St-James&apos;s-pea</string>
+		<string>St-John&apos;s-wort</string>
+		<string>St-Joseph&apos;s-wand</string>
 		<string>St-Ouen</string>
 		<string>Sta</string>
 		<string>Staal</string>
@@ -37251,7 +37250,7 @@
 		<string>Turino</string>
 		<string>Turishcheva</string>
 		<string>Turk</string>
-		<string>Turk's-head</string>
+		<string>Turk&apos;s-head</string>
 		<string>Turkestan</string>
 		<string>Turkey</string>
 		<string>Turkic</string>
@@ -37740,7 +37739,7 @@
 		<string>Vaishnavism</string>
 		<string>Vaisya</string>
 		<string>Val</string>
-		<string>Val-d'Oise</string>
+		<string>Val-d&apos;Oise</string>
 		<string>Val-de-Marne</string>
 		<string>Vala</string>
 		<string>Valadon</string>
@@ -37989,9 +37988,9 @@
 		<string>Ventura</string>
 		<string>Venu</string>
 		<string>Venus</string>
-		<string>Venus's-flytrap</string>
-		<string>Venus's-girdle</string>
-		<string>Venus's-hair</string>
+		<string>Venus&apos;s-flytrap</string>
+		<string>Venus&apos;s-girdle</string>
+		<string>Venus&apos;s-hair</string>
 		<string>Venusberg</string>
 		<string>Venuti</string>
 		<string>Ver</string>
@@ -40088,7 +40087,7 @@
 		<string>Zsigmondy</string>
 		<string>Zsolway</string>
 		<string>Ztopek</string>
-		<string>Zu'lkadah</string>
+		<string>Zu&apos;lkadah</string>
 		<string>Zubkoff</string>
 		<string>Zuccari</string>
 		<string>Zucker</string>
@@ -40695,9 +40694,9 @@
 		<string>Addend</string>
 		<string>Addendum</string>
 		<string>Adder</string>
-		<string>Adder's-meat</string>
-		<string>Adder's-mouth</string>
-		<string>Adder's-tongue</string>
+		<string>Adder&apos;s-meat</string>
+		<string>Adder&apos;s-mouth</string>
+		<string>Adder&apos;s-tongue</string>
 		<string>Addictedness</string>
 		<string>Addiction</string>
 		<string>Additament</string>
@@ -41218,7 +41217,7 @@
 		<string>Aimak</string>
 		<string>Aimer</string>
 		<string>Aimlessness</string>
-		<string>Ain't</string>
+		<string>Ain&apos;t</string>
 		<string>Air-breather</string>
 		<string>Air-intake</string>
 		<string>Air-mindedness</string>
@@ -41822,7 +41821,7 @@
 		<string>Ammonoid</string>
 		<string>Ammonolysis</string>
 		<string>Ammunition</string>
-		<string>Amn't</string>
+		<string>Amn&apos;t</string>
 		<string>Amnesia</string>
 		<string>Amniocentesis</string>
 		<string>Amnion</string>
@@ -41941,7 +41940,7 @@
 		<string>Amylum</string>
 		<string>Amyotonia</string>
 		<string>Amyxorrhea</string>
-		<string>An't</string>
+		<string>An&apos;t</string>
 		<string>Anabaena</string>
 		<string>Anabas</string>
 		<string>Anabasine</string>
@@ -42139,7 +42138,7 @@
 		<string>Angakok</string>
 		<string>Angary</string>
 		<string>Angel</string>
-		<string>Angel's-trumpet</string>
+		<string>Angel&apos;s-trumpet</string>
 		<string>Angelfish</string>
 		<string>Angelhood</string>
 		<string>Angelica</string>
@@ -43129,7 +43128,7 @@
 		<string>Areaway</string>
 		<string>Areca</string>
 		<string>Areg</string>
-		<string>Aren't</string>
+		<string>Aren&apos;t</string>
 		<string>Arena</string>
 		<string>Arenite</string>
 		<string>Arenosity</string>
@@ -44062,7 +44061,7 @@
 		<string>Babesia</string>
 		<string>Babesiosis</string>
 		<string>Babiche</string>
-		<string>Babies'-breath</string>
+		<string>Babies&apos;-breath</string>
 		<string>Babirusa</string>
 		<string>Babka</string>
 		<string>Baboo</string>
@@ -44072,8 +44071,8 @@
 		<string>Babu</string>
 		<string>Babul</string>
 		<string>Babushka</string>
-		<string>Baby's-breath</string>
-		<string>Baby's-slippers</string>
+		<string>Baby&apos;s-breath</string>
+		<string>Baby&apos;s-slippers</string>
 		<string>Baby-face</string>
 		<string>Baby-sitter</string>
 		<string>Babyhood</string>
@@ -44088,9 +44087,9 @@
 		<string>Baccillum</string>
 		<string>Baccy</string>
 		<string>Bachamel</string>
-		<string>Bachelor's</string>
-		<string>Bachelor's-button</string>
-		<string>Bachelor's-buttons</string>
+		<string>Bachelor&apos;s</string>
+		<string>Bachelor&apos;s-button</string>
+		<string>Bachelor&apos;s-buttons</string>
 		<string>Bachelor-at-arms</string>
 		<string>Bachelordom</string>
 		<string>Bachelorhood</string>
@@ -44767,10 +44766,10 @@
 		<string>Beanpole</string>
 		<string>Beanshooter</string>
 		<string>Beanstalk</string>
-		<string>Bear's-breech</string>
-		<string>Bear's-ear</string>
-		<string>Bear's-foot</string>
-		<string>Bear's-paw</string>
+		<string>Bear&apos;s-breech</string>
+		<string>Bear&apos;s-ear</string>
+		<string>Bear&apos;s-foot</string>
+		<string>Bear&apos;s-paw</string>
 		<string>Bear-baiting</string>
 		<string>Bear-tree</string>
 		<string>Bearableness</string>
@@ -44910,8 +44909,8 @@
 		<string>Befuddlement</string>
 		<string>Befuddler</string>
 		<string>Begar</string>
-		<string>Beggar's-lice</string>
-		<string>Beggar's-tick</string>
+		<string>Beggar&apos;s-lice</string>
+		<string>Beggar&apos;s-tick</string>
 		<string>Beggar-my-neighbour</string>
 		<string>Beggar-tick</string>
 		<string>Beggar-ticks</string>
@@ -45432,7 +45431,7 @@
 		<string>Bipyramid</string>
 		<string>Biquadrate</string>
 		<string>Biracialism</string>
-		<string>Bird's-foot</string>
+		<string>Bird&apos;s-foot</string>
 		<string>Bird-dog</string>
 		<string>Bird-foot</string>
 		<string>Bird-nesting</string>
@@ -45473,8 +45472,8 @@
 		<string>Bisexuality</string>
 		<string>Bish</string>
 		<string>Bishop</string>
-		<string>Bishop's-cap</string>
-		<string>Bishop's-weed</string>
+		<string>Bishop&apos;s-cap</string>
+		<string>Bishop&apos;s-weed</string>
 		<string>Bishopbird</string>
 		<string>Bishopric</string>
 		<string>Bishydroxycoumarin</string>
@@ -45820,7 +45819,7 @@
 		<string>Blvd</string>
 		<string>Blype</string>
 		<string>Bn</string>
-		<string>Bo's'n</string>
+		<string>Bo&apos;s&apos;n</string>
 		<string>Bo-peep</string>
 		<string>Boa</string>
 		<string>Boar</string>
@@ -46278,7 +46277,7 @@
 		<string>Bozo</string>
 		<string>Bp</string>
 		<string>Br</string>
-		<string>Br'er</string>
+		<string>Br&apos;er</string>
 		<string>Bra</string>
 		<string>Braata</string>
 		<string>Brabblement</string>
@@ -46811,7 +46810,7 @@
 		<string>Bulkhead</string>
 		<string>Bulkheading</string>
 		<string>Bulkiness</string>
-		<string>Bull's-eye</string>
+		<string>Bull&apos;s-eye</string>
 		<string>Bull-roarer</string>
 		<string>Bulla</string>
 		<string>Bullace</string>
@@ -46837,7 +46836,7 @@
 		<string>Bullionist</string>
 		<string>Bullishness</string>
 		<string>Bullnose</string>
-		<string>Bullock's-heart</string>
+		<string>Bullock&apos;s-heart</string>
 		<string>Bullpen</string>
 		<string>Bullpout</string>
 		<string>Bullring</string>
@@ -47024,8 +47023,8 @@
 		<string>Butanol</string>
 		<string>Butanone</string>
 		<string>Butat</string>
-		<string>Butcher's</string>
-		<string>Butcher's-broom</string>
+		<string>Butcher&apos;s</string>
+		<string>Butcher&apos;s-broom</string>
 		<string>Butcherbird</string>
 		<string>Butcherer</string>
 		<string>Butcherliness</string>
@@ -47130,7 +47129,7 @@
 		<string>C/o</string>
 		<string>CS</string>
 		<string>Ca</string>
-		<string>Ca'canny</string>
+		<string>Ca&apos;canny</string>
 		<string>Cab</string>
 		<string>Cabala</string>
 		<string>Cabalism</string>
@@ -48052,16 +48051,16 @@
 		<string>Casuarina</string>
 		<string>Casuist</string>
 		<string>Casuistry</string>
-		<string>Cat's-claw</string>
-		<string>Cat's-ear</string>
-		<string>Cat's-eye</string>
-		<string>Cat's-foot</string>
-		<string>Cat's-paw</string>
-		<string>Cat's-tail</string>
+		<string>Cat&apos;s-claw</string>
+		<string>Cat&apos;s-ear</string>
+		<string>Cat&apos;s-eye</string>
+		<string>Cat&apos;s-foot</string>
+		<string>Cat&apos;s-paw</string>
+		<string>Cat&apos;s-tail</string>
 		<string>Cat-harpin</string>
 		<string>Cat-lap</string>
-		<string>Cat-o'-mountain</string>
-		<string>Cat-o'-nine-tails</string>
+		<string>Cat-o&apos;-mountain</string>
+		<string>Cat-o&apos;-nine-tails</string>
 		<string>Cat-train</string>
 		<string>Catabaptist</string>
 		<string>Catabasis</string>
@@ -48524,7 +48523,7 @@
 		<string>Cgm</string>
 		<string>Cgs</string>
 		<string>Ch</string>
-		<string>Ch'in</string>
+		<string>Ch&apos;in</string>
 		<string>Chabazite</string>
 		<string>Chablis</string>
 		<string>Chabouk</string>
@@ -48832,8 +48831,8 @@
 		<string>Cheesiness</string>
 		<string>Cheetah</string>
 		<string>Chef</string>
-		<string>Chef-d'</string>
-		<string>Chef-d'oeuvre</string>
+		<string>Chef-d&apos;</string>
+		<string>Chef-d&apos;oeuvre</string>
 		<string>Cheilitis</string>
 		<string>Cheiloplasty</string>
 		<string>Cheilotomy</string>
@@ -49330,7 +49329,7 @@
 		<string>Chuck-a-luck</string>
 		<string>Chuck-farthing</string>
 		<string>Chuck-luck</string>
-		<string>Chuck-will's-widow</string>
+		<string>Chuck-will&apos;s-widow</string>
 		<string>Chucker-out</string>
 		<string>Chuckhole</string>
 		<string>Chucklehead</string>
@@ -51636,7 +51635,7 @@
 		<string>Cougar</string>
 		<string>Cougher</string>
 		<string>Coulae</string>
-		<string>Couldn't</string>
+		<string>Couldn&apos;t</string>
 		<string>Coulee</string>
 		<string>Coulibiaca</string>
 		<string>Coulisse</string>
@@ -51911,7 +51910,7 @@
 		<string>Cranberry</string>
 		<string>Crancelin</string>
 		<string>Crandall</string>
-		<string>Crane's-bill</string>
+		<string>Crane&apos;s-bill</string>
 		<string>Craneman</string>
 		<string>Cranemanship</string>
 		<string>Cranesbill</string>
@@ -52220,8 +52219,8 @@
 		<string>Croupiness</string>
 		<string>Croute</string>
 		<string>Crouton</string>
-		<string>Crow's-foot</string>
-		<string>Crow's-nest</string>
+		<string>Crow&apos;s-foot</string>
+		<string>Crow&apos;s-nest</string>
 		<string>Crow-bill</string>
 		<string>Crow-pheasant</string>
 		<string>Crowbar</string>
@@ -52792,9 +52791,9 @@
 		<string>Czarina</string>
 		<string>Czarism</string>
 		<string>Czaritza</string>
-		<string>D'Albert</string>
-		<string>D'Alembert</string>
-		<string>D'Arblay</string>
+		<string>D&apos;Albert</string>
+		<string>D&apos;Alembert</string>
+		<string>D&apos;Arblay</string>
 		<string>D-glucose</string>
 		<string>DB</string>
 		<string>DBV</string>
@@ -52945,7 +52944,7 @@
 		<string>Darby</string>
 		<string>Dard</string>
 		<string>Daredeviltry</string>
-		<string>Daren't</string>
+		<string>Daren&apos;t</string>
 		<string>Darer</string>
 		<string>Darg</string>
 		<string>Dargah</string>
@@ -52977,7 +52976,7 @@
 		<string>Dashiki</string>
 		<string>Dashpot</string>
 		<string>Dassie</string>
-		<string>Dassn't</string>
+		<string>Dassn&apos;t</string>
 		<string>Dastardliness</string>
 		<string>Dastur</string>
 		<string>Dasymeter</string>
@@ -53091,7 +53090,7 @@
 		<string>Dearth</string>
 		<string>Deary</string>
 		<string>Death</string>
-		<string>Death's-head</string>
+		<string>Death&apos;s-head</string>
 		<string>Deathbed</string>
 		<string>Deathblow</string>
 		<string>Deathday</string>
@@ -53314,7 +53313,7 @@
 		<string>Deepener</string>
 		<string>Deepness</string>
 		<string>Deer</string>
-		<string>Deer's-tongue</string>
+		<string>Deer&apos;s-tongue</string>
 		<string>Deergrass</string>
 		<string>Deerhound</string>
 		<string>Deerskin</string>
@@ -53515,7 +53514,7 @@
 		<string>Delivery</string>
 		<string>Deliveryman</string>
 		<string>Dell</string>
-		<string>Dell'</string>
+		<string>Dell&apos;</string>
 		<string>Della</string>
 		<string>Delocalisation</string>
 		<string>Delocalization</string>
@@ -54047,10 +54046,10 @@
 		<string>Deviator</string>
 		<string>Device</string>
 		<string>Devicefulness</string>
-		<string>Devil's-bit</string>
-		<string>Devil's-pincushion</string>
-		<string>Devil's-tongue</string>
-		<string>Devil's-walking-stick</string>
+		<string>Devil&apos;s-bit</string>
+		<string>Devil&apos;s-pincushion</string>
+		<string>Devil&apos;s-tongue</string>
+		<string>Devil&apos;s-walking-stick</string>
 		<string>Devil-in-the-bush</string>
 		<string>Devilfish</string>
 		<string>Devilishness</string>
@@ -54306,7 +54305,7 @@
 		<string>Diddler</string>
 		<string>Didgeridoo</string>
 		<string>Didicoy</string>
-		<string>Didn't</string>
+		<string>Didn&apos;t</string>
 		<string>Dido</string>
 		<string>Didrachm</string>
 		<string>Didy</string>
@@ -55175,10 +55174,10 @@
 		<string>Doek</string>
 		<string>Doer</string>
 		<string>Doeskin</string>
-		<string>Doesn't</string>
+		<string>Doesn&apos;t</string>
 		<string>Doffer</string>
-		<string>Dog's-tail</string>
-		<string>Dog's-tongue</string>
+		<string>Dog&apos;s-tail</string>
+		<string>Dog&apos;s-tongue</string>
 		<string>Dog-catcher</string>
 		<string>Dog-end</string>
 		<string>Dog-plum</string>
@@ -55502,7 +55501,7 @@
 		<string>Dragnet</string>
 		<string>Dragoman</string>
 		<string>Dragon</string>
-		<string>Dragon's-tongue</string>
+		<string>Dragon&apos;s-tongue</string>
 		<string>Dragoness</string>
 		<string>Dragonet</string>
 		<string>Dragonfly</string>
@@ -55891,9 +55890,9 @@
 		<string>Dybbuk</string>
 		<string>Dyeing</string>
 		<string>Dyer</string>
-		<string>Dyer's-broom</string>
-		<string>Dyer's-greenweed</string>
-		<string>Dyer's-weed</string>
+		<string>Dyer&apos;s-broom</string>
+		<string>Dyer&apos;s-greenweed</string>
+		<string>Dyer&apos;s-weed</string>
 		<string>Dyestuff</string>
 		<string>Dyeweed</string>
 		<string>Dyewood</string>
@@ -56427,8 +56426,8 @@
 		<string>Elenchus</string>
 		<string>Eleoptene</string>
 		<string>Elephant</string>
-		<string>Elephant's-ear</string>
-		<string>Elephant's-foot</string>
+		<string>Elephant&apos;s-ear</string>
+		<string>Elephant&apos;s-foot</string>
 		<string>Elephanta</string>
 		<string>Elephantiasis</string>
 		<string>Elevation</string>
@@ -57023,7 +57022,7 @@
 		<string>Entozoa</string>
 		<string>Entozoon</string>
 		<string>Entr</string>
-		<string>Entr'acte</string>
+		<string>Entr&apos;acte</string>
 		<string>Entrada</string>
 		<string>Entrae</string>
 		<string>Entrainer</string>
@@ -59475,7 +59474,7 @@
 		<string>Fm</string>
 		<string>Fn</string>
 		<string>Fo</string>
-		<string>Fo'c's'le</string>
+		<string>Fo&apos;c&apos;s&apos;le</string>
 		<string>Foamflower</string>
 		<string>Foaminess</string>
 		<string>Focalisation</string>
@@ -59548,7 +59547,7 @@
 		<string>Foodlessness</string>
 		<string>Foodstuff</string>
 		<string>Foofaraw</string>
-		<string>Fool's-parsley</string>
+		<string>Fool&apos;s-parsley</string>
 		<string>Foolery</string>
 		<string>Foolfish</string>
 		<string>Foolhardiness</string>
@@ -59846,7 +59845,7 @@
 		<string>Four-color</string>
 		<string>Four-cycle</string>
 		<string>Four-in-hand</string>
-		<string>Four-o'clock</string>
+		<string>Four-o&apos;clock</string>
 		<string>Four-poster</string>
 		<string>Four-spot</string>
 		<string>Four-striper</string>
@@ -60073,7 +60072,7 @@
 		<string>Frizzler</string>
 		<string>Frocking</string>
 		<string>Froe</string>
-		<string>Frog's-bit</string>
+		<string>Frog&apos;s-bit</string>
 		<string>Frog-bit</string>
 		<string>Frogbit</string>
 		<string>Frogeye</string>
@@ -61351,7 +61350,7 @@
 		<string>Goaltender</string>
 		<string>Goanna</string>
 		<string>Goat</string>
-		<string>Goat's-rue</string>
+		<string>Goat&apos;s-rue</string>
 		<string>Goatee</string>
 		<string>Goatfish</string>
 		<string>Goatherd</string>
@@ -62296,8 +62295,8 @@
 		<string>Gyrus</string>
 		<string>Gyttja</string>
 		<string>H</string>
-		<string>Ha'p'orth</string>
-		<string>Ha'penny</string>
+		<string>Ha&apos;p&apos;orth</string>
+		<string>Ha&apos;penny</string>
 		<string>Ha-Nasi</string>
 		<string>Haaf</string>
 		<string>Haar</string>
@@ -62344,7 +62343,7 @@
 		<string>Haddock</string>
 		<string>Hadj</string>
 		<string>Hadji</string>
-		<string>Hadn't</string>
+		<string>Hadn&apos;t</string>
 		<string>Hadron</string>
 		<string>Hadrosaur</string>
 		<string>Haecceity</string>
@@ -62439,9 +62438,9 @@
 		<string>Hailer</string>
 		<string>Hailstone</string>
 		<string>Hailstorm</string>
-		<string>Hain't</string>
+		<string>Hain&apos;t</string>
 		<string>Hair</string>
-		<string>Hair's-breadth</string>
+		<string>Hair&apos;s-breadth</string>
 		<string>Hair-raiser</string>
 		<string>Hairball</string>
 		<string>Hairbrush</string>
@@ -62626,11 +62625,11 @@
 		<string>Hamster</string>
 		<string>Hamulus</string>
 		<string>Hamza</string>
-		<string>Han't</string>
+		<string>Han&apos;t</string>
 		<string>Hanap</string>
 		<string>Hanaper</string>
 		<string>Hance</string>
-		<string>Hand's-breadth</string>
+		<string>Hand&apos;s-breadth</string>
 		<string>Handbag</string>
 		<string>Handballer</string>
 		<string>Handbarrow</string>
@@ -62769,7 +62768,7 @@
 		<string>Hardtop</string>
 		<string>Hardwall</string>
 		<string>Hardware</string>
-		<string>Hare's-foot</string>
+		<string>Hare&apos;s-foot</string>
 		<string>Harebell</string>
 		<string>Harebrainedness</string>
 		<string>Hareem</string>
@@ -62821,7 +62820,7 @@
 		<string>Harshness</string>
 		<string>Harslet</string>
 		<string>Hart</string>
-		<string>Hart's-tongue</string>
+		<string>Hart&apos;s-tongue</string>
 		<string>Hartal</string>
 		<string>Hartebeest</string>
 		<string>Hartshorn</string>
@@ -62839,7 +62838,7 @@
 		<string>Hashish</string>
 		<string>Haslet</string>
 		<string>Haslock</string>
-		<string>Hasn't</string>
+		<string>Hasn&apos;t</string>
 		<string>Hassenpfeffer</string>
 		<string>Hassock</string>
 		<string>Hastelessness</string>
@@ -62891,7 +62890,7 @@
 		<string>Hav</string>
 		<string>Have-not</string>
 		<string>Havelock</string>
-		<string>Haven't</string>
+		<string>Haven&apos;t</string>
 		<string>Haverel</string>
 		<string>Haversack</string>
 		<string>Haversine</string>
@@ -62899,8 +62898,8 @@
 		<string>Havior</string>
 		<string>Havocker</string>
 		<string>Hawfinch</string>
-		<string>Hawk's-beard</string>
-		<string>Hawk's-eye</string>
+		<string>Hawk&apos;s-beard</string>
+		<string>Hawk&apos;s-eye</string>
 		<string>Hawkbill</string>
 		<string>Hawker</string>
 		<string>Hawkey</string>
@@ -62943,9 +62942,9 @@
 		<string>Hd</string>
 		<string>Hdkf</string>
 		<string>Hdqrs</string>
-		<string>He'd</string>
-		<string>He'll</string>
-		<string>He's</string>
+		<string>He&apos;d</string>
+		<string>He&apos;ll</string>
+		<string>He&apos;s</string>
 		<string>He-huckleberry</string>
 		<string>He-man</string>
 		<string>Head-hunting</string>
@@ -63371,13 +63370,13 @@
 		<string>Herbivore</string>
 		<string>Herbivority</string>
 		<string>Herborist</string>
-		<string>Herd's-grass</string>
+		<string>Herd&apos;s-grass</string>
 		<string>Herd-book</string>
 		<string>Herder</string>
 		<string>Herdic</string>
 		<string>Herdman</string>
 		<string>Herdsman</string>
-		<string>Here's</string>
+		<string>Here&apos;s</string>
 		<string>Heredes</string>
 		<string>Hereditability</string>
 		<string>Hereditament</string>
@@ -63993,7 +63992,7 @@
 		<string>Hootenanny</string>
 		<string>Hooter</string>
 		<string>Hooves</string>
-		<string>Hop-o'-my-thumb</string>
+		<string>Hop-o&apos;-my-thumb</string>
 		<string>Hop-picker</string>
 		<string>Hopefulness</string>
 		<string>Hopelessness</string>
@@ -64139,7 +64138,7 @@
 		<string>Houbara</string>
 		<string>Houdah</string>
 		<string>Houmous</string>
-		<string>Hound's-tongue</string>
+		<string>Hound&apos;s-tongue</string>
 		<string>Hounder</string>
 		<string>Houndfish</string>
 		<string>Hounding</string>
@@ -64297,12 +64296,12 @@
 		<string>Hungriness</string>
 		<string>Hunk</string>
 		<string>Hunks</string>
-		<string>Hunt's-up</string>
+		<string>Hunt&apos;s-up</string>
 		<string>Hunter</string>
 		<string>Hunting</string>
 		<string>Huntress</string>
 		<string>Huntsman</string>
-		<string>Huntsman's-cup</string>
+		<string>Huntsman&apos;s-cup</string>
 		<string>Huntsmanship</string>
 		<string>Huppah</string>
 		<string>Hurcheon</string>
@@ -67108,7 +67107,7 @@
 		<string>Islet</string>
 		<string>Isls</string>
 		<string>Ism</string>
-		<string>Isn't</string>
+		<string>Isn&apos;t</string>
 		<string>Isnad</string>
 		<string>Isoabnormal</string>
 		<string>Isoagglutination</string>
@@ -67213,8 +67212,8 @@
 		<string>Isthmectomy</string>
 		<string>Isthmus</string>
 		<string>Istle</string>
-		<string>It'll</string>
-		<string>It's</string>
+		<string>It&apos;ll</string>
+		<string>It&apos;s</string>
 		<string>Itacolumite</string>
 		<string>Ital</string>
 		<string>Italicization</string>
@@ -67242,7 +67241,7 @@
 		<string>Izba</string>
 		<string>Izzard</string>
 		<string>J</string>
-		<string>J'ouvert</string>
+		<string>J&apos;ouvert</string>
 		<string>Jaap</string>
 		<string>Jabberer</string>
 		<string>Jabberwocky</string>
@@ -67262,7 +67261,7 @@
 		<string>Jack-in-office</string>
 		<string>Jack-in-the-box</string>
 		<string>Jack-in-the-pulpit</string>
-		<string>Jack-o'-lantern</string>
+		<string>Jack-o&apos;-lantern</string>
 		<string>Jack-of-all-trades</string>
 		<string>Jack-spaniard</string>
 		<string>Jack-tar</string>
@@ -67377,7 +67376,7 @@
 		<string>Jaup</string>
 		<string>Javanine</string>
 		<string>Javelin</string>
-		<string>Jaw's-harp</string>
+		<string>Jaw&apos;s-harp</string>
 		<string>Jawan</string>
 		<string>Jawbreaker</string>
 		<string>Jawfish</string>
@@ -67448,8 +67447,8 @@
 		<string>Jettiness</string>
 		<string>Jetton</string>
 		<string>Jeu</string>
-		<string>Jew's-ear</string>
-		<string>Jew's-harp</string>
+		<string>Jew&apos;s-ear</string>
+		<string>Jew&apos;s-harp</string>
 		<string>Jeweler</string>
 		<string>Jewelfish</string>
 		<string>Jeweller</string>
@@ -68264,7 +68263,7 @@
 		<string>Knife-point</string>
 		<string>Knifer</string>
 		<string>Kniferest</string>
-		<string>Knight's-spur</string>
+		<string>Knight&apos;s-spur</string>
 		<string>Knight-errant</string>
 		<string>Knight-errantry</string>
 		<string>Knighthead</string>
@@ -68549,7 +68548,7 @@
 		<string>Lader</string>
 		<string>Ladhood</string>
 		<string>Ladies</string>
-		<string>Ladies'-tobacco</string>
+		<string>Ladies&apos;-tobacco</string>
 		<string>Ladies-tresses</string>
 		<string>Lading</string>
 		<string>Ladino</string>
@@ -68557,12 +68556,12 @@
 		<string>Ladler</string>
 		<string>Ladrone</string>
 		<string>Lady</string>
-		<string>Lady's-mantle</string>
-		<string>Lady's-slipper</string>
-		<string>Lady's-smock</string>
-		<string>Lady's-thistle</string>
-		<string>Lady's-thumb</string>
-		<string>Lady's-tresses</string>
+		<string>Lady&apos;s-mantle</string>
+		<string>Lady&apos;s-slipper</string>
+		<string>Lady&apos;s-smock</string>
+		<string>Lady&apos;s-thistle</string>
+		<string>Lady&apos;s-thumb</string>
+		<string>Lady&apos;s-tresses</string>
 		<string>Lady-in-waiting</string>
 		<string>Lady-of-the-night</string>
 		<string>Ladybird</string>
@@ -68621,7 +68620,7 @@
 		<string>Laloplegia</string>
 		<string>Lama</string>
 		<string>Lamasery</string>
-		<string>Lamb's-quarters</string>
+		<string>Lamb&apos;s-quarters</string>
 		<string>Lambda</string>
 		<string>Lambdacism</string>
 		<string>Lambency</string>
@@ -69129,7 +69128,7 @@
 		<string>Lentil</string>
 		<string>Leone</string>
 		<string>Leopard</string>
-		<string>Leopard's-bane</string>
+		<string>Leopard&apos;s-bane</string>
 		<string>Leopardess</string>
 		<string>Leotard</string>
 		<string>Leper</string>
@@ -69166,7 +69165,7 @@
 		<string>Leste</string>
 		<string>Lestobiosis</string>
 		<string>Lesya</string>
-		<string>Let's</string>
+		<string>Let&apos;s</string>
 		<string>Letdown</string>
 		<string>Lethality</string>
 		<string>Lethargy</string>
@@ -69386,7 +69385,7 @@
 		<string>Light-heartedness</string>
 		<string>Light-horseman</string>
 		<string>Light-mindedness</string>
-		<string>Light-o'-love</string>
+		<string>Light-o&apos;-love</string>
 		<string>Light-year</string>
 		<string>Lightboat</string>
 		<string>Lightener</string>
@@ -69697,7 +69696,7 @@
 		<string>Lixivium</string>
 		<string>Liza</string>
 		<string>Lizard</string>
-		<string>Lizard's-tail</string>
+		<string>Lizard&apos;s-tail</string>
 		<string>Lizardfish</string>
 		<string>Lizzie</string>
 		<string>Ll</string>
@@ -70237,7 +70236,7 @@
 		<string>MV</string>
 		<string>MW</string>
 		<string>Ma</string>
-		<string>Ma'am</string>
+		<string>Ma&apos;am</string>
 		<string>Maar</string>
 		<string>Mabela</string>
 		<string>Mac</string>
@@ -70416,8 +70415,8 @@
 		<string>Maid</string>
 		<string>Maid-in-waiting</string>
 		<string>Maidan</string>
-		<string>Maiden's-tears</string>
-		<string>Maiden's-wreath</string>
+		<string>Maiden&apos;s-tears</string>
+		<string>Maiden&apos;s-wreath</string>
 		<string>Maidenhair</string>
 		<string>Maidenhair-tree</string>
 		<string>Maidenhair-vine</string>
@@ -70777,8 +70776,8 @@
 		<string>Marconigram</string>
 		<string>Marconigraph</string>
 		<string>Mare</string>
-		<string>Mare's-nest</string>
-		<string>Mare's-tail</string>
+		<string>Mare&apos;s-nest</string>
+		<string>Mare&apos;s-tail</string>
 		<string>Marekanite</string>
 		<string>Maremma</string>
 		<string>Mareograph</string>
@@ -71074,7 +71073,7 @@
 		<string>Mayflower</string>
 		<string>Mayfly</string>
 		<string>Mayhem</string>
-		<string>Mayn't</string>
+		<string>Mayn&apos;t</string>
 		<string>Mayonnaise</string>
 		<string>Mayor</string>
 		<string>Mayoralty</string>
@@ -73024,7 +73023,7 @@
 		<string>Mustee</string>
 		<string>Musth</string>
 		<string>Mustiness</string>
-		<string>Mustn't</string>
+		<string>Mustn&apos;t</string>
 		<string>Mut</string>
 		<string>Mutability</string>
 		<string>Mutableness</string>
@@ -73171,7 +73170,7 @@
 		<string>Myxomatous</string>
 		<string>Myxovirus</string>
 		<string>Mzungu</string>
-		<string>N'gana</string>
+		<string>N&apos;gana</string>
 		<string>N-tuple</string>
 		<string>NCi</string>
 		<string>NF</string>
@@ -73420,7 +73419,7 @@
 		<string>Needlepoint</string>
 		<string>Needlewoman</string>
 		<string>Needlework</string>
-		<string>Needn't</string>
+		<string>Needn&apos;t</string>
 		<string>Neencephalon</string>
 		<string>Neep</string>
 		<string>Nef</string>
@@ -73780,7 +73779,7 @@
 		<string>Niyama</string>
 		<string>Nizamate</string>
 		<string>No-hoper</string>
-		<string>No-man's-land</string>
+		<string>No-man&apos;s-land</string>
 		<string>No-show</string>
 		<string>No-side</string>
 		<string>No-tillage</string>
@@ -75915,8 +75914,8 @@
 		<string>Noontime</string>
 		<string>Nooser</string>
 		<string>Nopal</string>
-		<string>Nor'easter</string>
-		<string>Nor'wester</string>
+		<string>Nor&apos;easter</string>
+		<string>Nor&apos;wester</string>
 		<string>Noradrenaline</string>
 		<string>Norepinephrine</string>
 		<string>Noria</string>
@@ -76451,7 +76450,7 @@
 		<string>Okta</string>
 		<string>Oktastylos</string>
 		<string>Old-fashionedness</string>
-		<string>Old-man's-beard</string>
+		<string>Old-man&apos;s-beard</string>
 		<string>Old-timer</string>
 		<string>Old-womanishness</string>
 		<string>Old-worldliness</string>
@@ -77009,7 +77008,7 @@
 		<string>Oubliette</string>
 		<string>Oud</string>
 		<string>Ougamy</string>
-		<string>Oughtn't</string>
+		<string>Oughtn&apos;t</string>
 		<string>Ounce</string>
 		<string>Ouphe</string>
 		<string>Ourari</string>
@@ -77744,7 +77743,7 @@
 		<string>Ovum</string>
 		<string>Owelty</string>
 		<string>Owl</string>
-		<string>Owl's-crown</string>
+		<string>Owl&apos;s-crown</string>
 		<string>Owlet</string>
 		<string>Owlishness</string>
 		<string>Owner</string>
@@ -78409,8 +78408,8 @@
 		<string>Parrel</string>
 		<string>Parricide</string>
 		<string>Parroket</string>
-		<string>Parrot's-bill</string>
-		<string>Parrot's-feather</string>
+		<string>Parrot&apos;s-bill</string>
+		<string>Parrot&apos;s-feather</string>
 		<string>Parrot-beak</string>
 		<string>Parrotfish</string>
 		<string>Pars</string>
@@ -79398,7 +79397,7 @@
 		<string>Phasis</string>
 		<string>Phasmajector</string>
 		<string>Pheasant</string>
-		<string>Pheasant's-eye</string>
+		<string>Pheasant&apos;s-eye</string>
 		<string>Phellem</string>
 		<string>Phelloderm</string>
 		<string>Phellogen</string>
@@ -82109,8 +82108,8 @@
 		<string>Primula</string>
 		<string>Primus</string>
 		<string>Prince</string>
-		<string>Prince's-feather</string>
-		<string>Prince's-pine</string>
+		<string>Prince&apos;s-feather</string>
+		<string>Prince&apos;s-pine</string>
 		<string>Princedom</string>
 		<string>Princekin</string>
 		<string>Princeliness</string>
@@ -83936,7 +83935,7 @@
 		<string>Rebuttal</string>
 		<string>Rebutter</string>
 		<string>Rec</string>
-		<string>Rec'd</string>
+		<string>Rec&apos;d</string>
 		<string>Recalcitrance</string>
 		<string>Recalcitrancy</string>
 		<string>Recalcitration</string>
@@ -85343,7 +85342,7 @@
 		<string>Rocaille</string>
 		<string>Rocambole</string>
 		<string>Rochet</string>
-		<string>Rock-'n'-roll</string>
+		<string>Rock-&apos;n&apos;-roll</string>
 		<string>Rock-eel</string>
 		<string>Rockabilly</string>
 		<string>Rockaway</string>
@@ -85824,7 +85823,7 @@
 		<string>Sailfish</string>
 		<string>Sailmaker</string>
 		<string>Sailor</string>
-		<string>Sailor's-choice</string>
+		<string>Sailor&apos;s-choice</string>
 		<string>Sailoring</string>
 		<string>Sainfoin</string>
 		<string>Saintdom</string>
@@ -86221,7 +86220,7 @@
 		<string>Saxophone</string>
 		<string>Saxophonist</string>
 		<string>Saxtuba</string>
-		<string>Say'</string>
+		<string>Say&apos;</string>
 		<string>Say-so</string>
 		<string>Sayer</string>
 		<string>Saying</string>
@@ -86391,7 +86390,7 @@
 		<string>Schoolhouse</string>
 		<string>Schoolie</string>
 		<string>Schooling</string>
-		<string>Schoolma'am</string>
+		<string>Schoolma&apos;am</string>
 		<string>Schoolman</string>
 		<string>Schoolmarm</string>
 		<string>Schoolmastership</string>
@@ -87816,7 +87815,7 @@
 		<string>Shamrock-pea</string>
 		<string>Shamshir</string>
 		<string>Shamus</string>
-		<string>Shan't</string>
+		<string>Shan&apos;t</string>
 		<string>Shandrydan</string>
 		<string>Shandy</string>
 		<string>Shandygaff</string>
@@ -87834,7 +87833,7 @@
 		<string>Sharefarmer</string>
 		<string>Shareholder</string>
 		<string>Sharer</string>
-		<string>Shari"ah</string>
+		<string>Shari&quot;ah</string>
 		<string>Sharia</string>
 		<string>Sharif</string>
 		<string>Sharkskin</string>
@@ -87862,9 +87861,9 @@
 		<string>Shawl</string>
 		<string>Shawm</string>
 		<string>Shay</string>
-		<string>She'd</string>
-		<string>She'll</string>
-		<string>She's</string>
+		<string>She&apos;d</string>
+		<string>She&apos;ll</string>
+		<string>She&apos;s</string>
 		<string>She-devil</string>
 		<string>She-oak</string>
 		<string>Shea</string>
@@ -87887,7 +87886,7 @@
 		<string>Shedder</string>
 		<string>Sheefish</string>
 		<string>Sheep</string>
-		<string>Sheep's-bit</string>
+		<string>Sheep&apos;s-bit</string>
 		<string>Sheep-dip</string>
 		<string>Sheepberry</string>
 		<string>Sheepcote</string>
@@ -87928,8 +87927,8 @@
 		<string>Shelving</string>
 		<string>Shemaal</string>
 		<string>Shenanigan</string>
-		<string>Shepherd's-purse</string>
-		<string>Shepherd's-scabious</string>
+		<string>Shepherd&apos;s-purse</string>
+		<string>Shepherd&apos;s-scabious</string>
 		<string>Sherbet</string>
 		<string>Sherd</string>
 		<string>Sheria</string>
@@ -88077,9 +88076,9 @@
 		<string>Shote</string>
 		<string>Shott</string>
 		<string>Shotting</string>
-		<string>Shouldn't</string>
+		<string>Shouldn&apos;t</string>
 		<string>Shouldna</string>
-		<string>Shove-ha'penny</string>
+		<string>Shove-ha&apos;penny</string>
 		<string>Shove-halfpenny</string>
 		<string>Shovelboard</string>
 		<string>Shoveler</string>
@@ -89129,7 +89128,7 @@
 		<string>Sotie</string>
 		<string>Sotol</string>
 		<string>Sou</string>
-		<string>Sou'wester</string>
+		<string>Sou&apos;wester</string>
 		<string>Sou-sou</string>
 		<string>Soubise</string>
 		<string>Soubresaut</string>
@@ -89745,7 +89744,7 @@
 		<string>Squireen</string>
 		<string>Squireling</string>
 		<string>Squirrel</string>
-		<string>Squirrel's-ear</string>
+		<string>Squirrel&apos;s-ear</string>
 		<string>Squirrelfish</string>
 		<string>Squirter</string>
 		<string>Squit</string>
@@ -92033,7 +92032,7 @@
 		<string>Swamper</string>
 		<string>Swampland</string>
 		<string>Swamy</string>
-		<string>Swan's-down</string>
+		<string>Swan&apos;s-down</string>
 		<string>Swan-upping</string>
 		<string>Swanherd</string>
 		<string>Swankiness</string>
@@ -92443,7 +92442,7 @@
 		<string>Taille</string>
 		<string>Taillessness</string>
 		<string>Taillight</string>
-		<string>Tailor's-tack</string>
+		<string>Tailor&apos;s-tack</string>
 		<string>Tailorbird</string>
 		<string>Tailpiece</string>
 		<string>Tailpipe</string>
@@ -92499,7 +92498,7 @@
 		<string>Talus</string>
 		<string>Talweg</string>
 		<string>Tam</string>
-		<string>Tam-o'-shanter</string>
+		<string>Tam-o&apos;-shanter</string>
 		<string>Tam-tam</string>
 		<string>Tamale</string>
 		<string>Tamandua</string>
@@ -93167,7 +93166,7 @@
 		<string>Thanksgiving</string>
 		<string>Thar</string>
 		<string>Tharm</string>
-		<string>That's</string>
+		<string>That&apos;s</string>
 		<string>Thatching</string>
 		<string>Thaumatology</string>
 		<string>Thaumatrope</string>
@@ -93248,7 +93247,7 @@
 		<string>Therapsid</string>
 		<string>Therapy</string>
 		<string>Therblig</string>
-		<string>There's</string>
+		<string>There&apos;s</string>
 		<string>Therianthropism</string>
 		<string>Theriomorph</string>
 		<string>Therm</string>
@@ -93307,10 +93306,10 @@
 		<string>Theurgist</string>
 		<string>Theurgy</string>
 		<string>Thew</string>
-		<string>They'd</string>
-		<string>They'll</string>
-		<string>They're</string>
-		<string>They've</string>
+		<string>They&apos;d</string>
+		<string>They&apos;ll</string>
+		<string>They&apos;re</string>
+		<string>They&apos;ve</string>
 		<string>Thiamine</string>
 		<string>Thiasos</string>
 		<string>Thiasus</string>
@@ -93587,7 +93586,7 @@
 		<string>Tiffany</string>
 		<string>Tiffin</string>
 		<string>Tiger</string>
-		<string>Tiger's-eye</string>
+		<string>Tiger&apos;s-eye</string>
 		<string>Tigereye</string>
 		<string>Tigerfish</string>
 		<string>Tigerishness</string>
@@ -93743,7 +93742,7 @@
 		<string>To-do</string>
 		<string>To-name</string>
 		<string>Toad</string>
-		<string>Toad's-mouth</string>
+		<string>Toad&apos;s-mouth</string>
 		<string>Toad-in-the-hole</string>
 		<string>Toadeater</string>
 		<string>Toadfish</string>
@@ -93920,7 +93919,7 @@
 		<string>Topcoat</string>
 		<string>Topee</string>
 		<string>Toper</string>
-		<string>Toper's-plant</string>
+		<string>Toper&apos;s-plant</string>
 		<string>Topflighter</string>
 		<string>Topgallant</string>
 		<string>Toph</string>
@@ -94330,8 +94329,8 @@
 		<string>Trav</string>
 		<string>Trave</string>
 		<string>Traveler</string>
-		<string>Traveler's-joy</string>
-		<string>Traveler's-tree</string>
+		<string>Traveler&apos;s-joy</string>
+		<string>Traveler&apos;s-tree</string>
 		<string>Traveller</string>
 		<string>Traversal</string>
 		<string>Traverser</string>
@@ -97458,7 +97457,7 @@
 		<string>Vireo</string>
 		<string>Virescence</string>
 		<string>Virga</string>
-		<string>Virgin's-bower</string>
+		<string>Virgin&apos;s-bower</string>
 		<string>Virginity</string>
 		<string>Virginium</string>
 		<string>Virgule</string>
@@ -97880,7 +97879,7 @@
 		<string>Washstand</string>
 		<string>Washtub</string>
 		<string>Washwoman</string>
-		<string>Wasn't</string>
+		<string>Wasn&apos;t</string>
 		<string>Wasp</string>
 		<string>Waspiness</string>
 		<string>Waspishness</string>
@@ -97978,9 +97977,9 @@
 		<string>Wb</string>
 		<string>Wc</string>
 		<string>Wd</string>
-		<string>We'd</string>
-		<string>We'll</string>
-		<string>We've</string>
+		<string>We&apos;d</string>
+		<string>We&apos;ll</string>
+		<string>We&apos;ve</string>
 		<string>Weak-kneedness</string>
 		<string>Weak-mindedness</string>
 		<string>Weakener</string>
@@ -98092,7 +98091,7 @@
 		<string>Wensleydale</string>
 		<string>Wentletrap</string>
 		<string>Weregild</string>
-		<string>Weren't</string>
+		<string>Weren&apos;t</string>
 		<string>Werewolf</string>
 		<string>Wergild</string>
 		<string>Wernerite</string>
@@ -98126,10 +98125,10 @@
 		<string>Wharfie</string>
 		<string>Wharfinger</string>
 		<string>Wharve</string>
-		<string>What'd</string>
-		<string>What'll</string>
-		<string>What's</string>
-		<string>What've</string>
+		<string>What&apos;d</string>
+		<string>What&apos;ll</string>
+		<string>What&apos;s</string>
+		<string>What&apos;ve</string>
 		<string>Whatnot</string>
 		<string>Whaup</string>
 		<string>Wheal</string>
@@ -98150,14 +98149,14 @@
 		<string>Wheelwright</string>
 		<string>Wheezer</string>
 		<string>Wheeziness</string>
-		<string>When'd</string>
-		<string>When'll</string>
-		<string>When're</string>
-		<string>When's</string>
-		<string>Where'd</string>
-		<string>Where'll</string>
-		<string>Where're</string>
-		<string>Where've</string>
+		<string>When&apos;d</string>
+		<string>When&apos;ll</string>
+		<string>When&apos;re</string>
+		<string>When&apos;s</string>
+		<string>Where&apos;d</string>
+		<string>Where&apos;ll</string>
+		<string>Where&apos;re</string>
+		<string>Where&apos;ve</string>
 		<string>Wherry</string>
 		<string>Whetstone</string>
 		<string>Whetter</string>
@@ -98234,10 +98233,10 @@
 		<string>Whitlowwort</string>
 		<string>Whitrack</string>
 		<string>Whittler</string>
-		<string>Who'd</string>
-		<string>Who'll</string>
-		<string>Who're</string>
-		<string>Who's</string>
+		<string>Who&apos;d</string>
+		<string>Who&apos;ll</string>
+		<string>Who&apos;re</string>
+		<string>Who&apos;s</string>
 		<string>Whodunit</string>
 		<string>Wholefood</string>
 		<string>Wholeheartedness</string>
@@ -98263,9 +98262,9 @@
 		<string>Whr</string>
 		<string>Whse</string>
 		<string>Whsle</string>
-		<string>Why'll</string>
-		<string>Why're</string>
-		<string>Why's</string>
+		<string>Why&apos;ll</string>
+		<string>Why&apos;re</string>
+		<string>Why&apos;s</string>
 		<string>Whydah</string>
 		<string>Wi</string>
 		<string>Wickedness</string>
@@ -98283,7 +98282,7 @@
 		<string>Widgeon</string>
 		<string>Widget</string>
 		<string>Widgie</string>
-		<string>Widow's-cross</string>
+		<string>Widow&apos;s-cross</string>
 		<string>Widower</string>
 		<string>Width</string>
 		<string>Wielder</string>
@@ -98315,7 +98314,7 @@
 		<string>Wilfulness</string>
 		<string>Wiliness</string>
 		<string>Will-lessness</string>
-		<string>Will-o'-the-wisp</string>
+		<string>Will-o&apos;-the-wisp</string>
 		<string>Willemite</string>
 		<string>Willer</string>
 		<string>Willet</string>
@@ -98438,8 +98437,8 @@
 		<string>Witch-elm</string>
 		<string>Witchcraft</string>
 		<string>Witchery</string>
-		<string>Witches'-besom</string>
-		<string>Witches'-broom</string>
+		<string>Witches&apos;-besom</string>
+		<string>Witches&apos;-broom</string>
 		<string>Witchhood</string>
 		<string>Wite</string>
 		<string>Witenagemot</string>
@@ -98640,7 +98639,7 @@
 		<string>Wort</string>
 		<string>Worthiness</string>
 		<string>Worthlessness</string>
-		<string>Wouldn't</string>
+		<string>Wouldn&apos;t</string>
 		<string>Woundwort</string>
 		<string>Wourali</string>
 		<string>Wowser</string>
@@ -98816,7 +98815,7 @@
 		<string>Yazata</string>
 		<string>Yd</string>
 		<string>Yds</string>
-		<string>Ye'se</string>
+		<string>Ye&apos;se</string>
 		<string>Yealing</string>
 		<string>Yeanling</string>
 		<string>Year</string>
@@ -98877,10 +98876,10 @@
 		<string>Yoni</string>
 		<string>Yonnie</string>
 		<string>Yorker</string>
-		<string>You'd</string>
-		<string>You'll</string>
-		<string>You're</string>
-		<string>You've</string>
+		<string>You&apos;d</string>
+		<string>You&apos;ll</string>
+		<string>You&apos;re</string>
+		<string>You&apos;ve</string>
 		<string>Youngberry</string>
 		<string>Youngling</string>
 		<string>Youngster</string>
@@ -99953,7 +99952,7 @@
 		<string>Zionistic</string>
 		<string>Zolaesque</string>
 		<string>A la king</string>
-		<string>A'</string>
+		<string>A&apos;</string>
 		<string>Abactinal</string>
 		<string>Abaised</string>
 		<string>Abandonable</string>
@@ -102270,7 +102269,7 @@
 		<string>Bausond</string>
 		<string>Bawdier</string>
 		<string>Bawdiest</string>
-		<string>Baws'nt</string>
+		<string>Baws&apos;nt</string>
 		<string>Beachless</string>
 		<string>Beachy</string>
 		<string>Beaconless</string>
@@ -103105,7 +103104,7 @@
 		<string>Bulkier</string>
 		<string>Bulkiest</string>
 		<string>Bulky</string>
-		<string>Bull's-eyed</string>
+		<string>Bull&apos;s-eyed</string>
 		<string>Bull-headed</string>
 		<string>Bull-necked</string>
 		<string>Bull-nosed</string>
@@ -103328,7 +103327,7 @@
 		<string>Calyptrate</string>
 		<string>Camailed</string>
 		<string>Cambial</string>
-		<string>Camel's-hair</string>
+		<string>Camel&apos;s-hair</string>
 		<string>Camellike</string>
 		<string>Camera-shy</string>
 		<string>Cameral</string>
@@ -105103,7 +105102,7 @@
 		<string>Cottaged</string>
 		<string>Cotton-picking</string>
 		<string>Cottonless</string>
-		<string>Cottonpickin'</string>
+		<string>Cottonpickin&apos;</string>
 		<string>Cottony</string>
 		<string>Cotyledonal</string>
 		<string>Cotyledonary</string>
@@ -105465,7 +105464,7 @@
 		<string>Cuneatic</string>
 		<string>Cunicular</string>
 		<string>Cup-tied</string>
-		<string>Cupid's-bow</string>
+		<string>Cupid&apos;s-bow</string>
 		<string>Cupidinous</string>
 		<string>Cuplike</string>
 		<string>Cupolated</string>
@@ -106492,7 +106491,7 @@
 		<string>Dodecaphonic</string>
 		<string>Dodecastyle</string>
 		<string>Dodgy</string>
-		<string>Dog's-eared</string>
+		<string>Dog&apos;s-eared</string>
 		<string>Dog-eared</string>
 		<string>Dog-legged</string>
 		<string>Dog-poor</string>
@@ -107045,7 +107044,7 @@
 		<string>Elegant</string>
 		<string>Elementary</string>
 		<string>Elenctic</string>
-		<string>Elephant's</string>
+		<string>Elephant&apos;s</string>
 		<string>Elephantiasic</string>
 		<string>Elephantine</string>
 		<string>Elephantoid</string>
@@ -111118,7 +111117,7 @@
 		<string>Hotsy-totsy</string>
 		<string>Hotting</string>
 		<string>Hottish</string>
-		<string>Hound's-tooth</string>
+		<string>Hound&apos;s-tooth</string>
 		<string>Houndish</string>
 		<string>Houndlike</string>
 		<string>Houndy</string>
@@ -129386,7 +129385,7 @@
 		<string>Tabarded</string>
 		<string>Tabernacular</string>
 		<string>Tabescent</string>
-		<string>Table-d'hote</string>
+		<string>Table-d&apos;hote</string>
 		<string>Tabulable</string>
 		<string>Tabular</string>
 		<string>Tachistoscopic</string>
@@ -129943,7 +129942,7 @@
 		<string>Titratable</string>
 		<string>Tittuppy</string>
 		<string>Titubant</string>
-		<string>To one's home</string>
+		<string>To one&apos;s home</string>
 		<string>To-be</string>
 		<string>Toadish</string>
 		<string>Toadless</string>
@@ -141650,8 +141649,8 @@
 		<string>Willable</string>
 		<string>Willed</string>
 		<string>Willful</string>
-		<string>Willo'-the-wispish</string>
-		<string>Willo'-the-wispy</string>
+		<string>Willo&apos;-the-wispish</string>
+		<string>Willo&apos;-the-wispy</string>
 		<string>Willowy</string>
 		<string>Willyard</string>
 		<string>Wily</string>
