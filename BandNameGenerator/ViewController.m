@@ -7,9 +7,14 @@
 //
 
 #import "ViewController.h"
+#import "Word.h"
+#import "WordRepository.h"
 
 @interface ViewController ()
 @property (nonatomic, strong) UILabel *labelBandName;
+@property (nonatomic, strong) NSManagedObjectContext *managedObjectContext;
+@property (nonatomic, strong) NSArray *fetchedRecordsArray;
+@property (nonatomic, strong) WordRepository *wordRepostitory;
 @end
 
 @implementation ViewController
@@ -24,6 +29,8 @@
 {
     [super viewDidLoad];
     
+    self.wordRepostitory = [[WordRepository alloc] init];
+    
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenHeight = screenRect.size.height;
     
@@ -34,7 +41,7 @@
     [self.labelBandName setFont:[UIFont fontWithName:@"HelveticaNeue-Light" size:38]];
     [self.labelBandName setNumberOfLines:2];
     self.labelBandName.textAlignment = NSTextAlignmentCenter;
-    [self.labelBandName setText: [self getRandomBandName]];
+    [self.labelBandName setText: [self.wordRepostitory getRandomBandName]];
     [self.view addSubview:self.labelBandName];
     
     // setup event handler for tapping anywhere on screen
@@ -93,50 +100,7 @@
 - (void)handleGenerate
 {
     
-    [self.labelBandName setText:[self getRandomBandName]];
-}
-
-- (NSString *)getRandomBandName
-{
-    // Path to the plist (Supporting Files/WordsDictionary.plist)
-    NSString *path = [[NSBundle mainBundle] pathForResource:
-                      @"WordsDictionary" ofType:@"plist"];
-    
-    // Build the array from the plist
-    NSDictionary *wordsDictionary = [[NSDictionary alloc] initWithContentsOfFile:path];
-    
-    NSArray *adjectives = [wordsDictionary objectForKey:@"Adjectives"];
-    NSArray *nouns = [wordsDictionary objectForKey:@"Nouns"];
-    
-    NSString *adjective = [self getRandomStringFromArray:adjectives];
-    NSString *noun = [self getRandomStringFromArray:nouns];
-    
-    // concatenate adjective and noun to form band name
-    NSString *bandName = [NSString stringWithFormat:@"%@\n%@", adjective, noun];
-    
-    // max length of any single word
-    NSInteger maxLength = 13;
-    
-    // if either word exceeds max length, try again
-    if ([adjective length] > maxLength || [noun length] > maxLength) {
-        return [self getRandomBandName];
-    }
-    
-    // if band name contains invalid characters, try again
-    NSString *invalidCharacters = @"-";
-    NSCharacterSet *cset = [NSCharacterSet characterSetWithCharactersInString:invalidCharacters];
-    NSRange range = [bandName rangeOfCharacterFromSet:cset];
-    if (range.location != NSNotFound) {
-        return [self getRandomBandName];
-    }
-    
-    return bandName;
-}
-
-- (NSString *)getRandomStringFromArray: (NSArray *)paramArray
-{
-    NSString *randomString = [paramArray objectAtIndex: arc4random() % [paramArray count]];
-    return randomString;
+    [self.labelBandName setText:[self.wordRepostitory getRandomBandName]];
 }
 
 - (void)didReceiveMemoryWarning
