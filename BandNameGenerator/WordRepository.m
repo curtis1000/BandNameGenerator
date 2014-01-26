@@ -17,6 +17,15 @@
 @synthesize managedObjectModel = _managedObjectModel;
 @synthesize persistentStoreCoordinator = _persistentStoreCoordinator;
 
+// Statuses
+const NSInteger NOT_REVIEWED = 1;
+const NSInteger DENIED = 2;
+const NSInteger APPROVED = 3;
+
+// Classification
+const NSInteger ADJECTIVE = 1;
+const NSInteger NOUN = 2;
+
 // Legacy
 - (NSString *)getRandomBandName
 {
@@ -55,10 +64,82 @@
     return bandName;
 }
 
+// Legacy
 - (NSString *)getRandomStringFromArray: (NSArray *)paramArray
 {
     NSString *randomString = [paramArray objectAtIndex: arc4random() % [paramArray count]];
     return randomString;
+}
+
+- (void)migrateWords
+{
+    [self deleteAll];
+    
+    // Path to the plist (Supporting Files/WordsDictionary.plist)
+    NSString *path = [[NSBundle mainBundle] pathForResource:
+                      @"WordsDictionary" ofType:@"plist"];
+    
+    // Build the array from the plist
+    NSDictionary *wordsDictionary = [[NSDictionary alloc] initWithContentsOfFile:path];
+    
+    NSArray *adjectives = [wordsDictionary objectForKey:@"Adjectives"];
+
+    for (id value in adjectives) {
+        [self insert:value withClassification:ADJECTIVE withStatus:NOT_REVIEWED];
+    }
+    
+    NSArray *nouns = [wordsDictionary objectForKey:@"Nouns"];
+    
+    for (id value in nouns) {
+        [self insert:value withClassification:NOUN withStatus:NOT_REVIEWED];
+    }
+}
+
+- (void)insert:(NSString *)value withClassification:(NSInteger)classification withStatus:(NSInteger)status
+{
+    Word *newWord = [NSEntityDescription insertNewObjectForEntityForName:@"Word"
+                                                  inManagedObjectContext:self.managedObjectContext];
+    newWord.value = value;
+    newWord.classification = [NSNumber numberWithInt:classification];
+    newWord.status = [NSNumber numberWithInt:status];
+    
+    NSError *error;
+    if (![self.managedObjectContext save:&error]) {
+        NSLog(@"Whoops, couldn't save: %@", [error localizedDescription]);
+    } else {
+        NSLog(@"Save Success!");
+    }
+}
+
+- (void)insertTest
+{
+    [self insert:@"Testing 123" withClassification:NOUN withStatus:NOT_REVIEWED];
+}
+
+- (NSArray *)selectAllIds
+{
+    NSFetchRequest *allWords = [[NSFetchRequest alloc] init];
+    [allWords setEntity:[NSEntityDescription entityForName:@"Word" inManagedObjectContext:self.managedObjectContext]];
+    [allWords setIncludesPropertyValues:NO];
+    
+    NSError *error = nil;
+    NSArray *words = [self.managedObjectContext executeFetchRequest:allWords error:&error];
+    
+    //error handling goes here
+    
+    return words;
+}
+
+- (void)deleteAll
+{
+    NSArray *words = [self selectAllIds];
+    
+    for (NSManagedObject *word in words) {
+        [self.managedObjectContext deleteObject:word];
+    }
+    
+    NSError *saveError = nil;
+    [self.managedObjectContext save:&saveError];
 }
 
 // Lazy Loader for Managed Object Context

@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-#import "Word.h"
 #import "WordRepository.h"
 
 @interface ViewController ()
@@ -30,6 +29,7 @@
     [super viewDidLoad];
     
     self.wordRepostitory = [[WordRepository alloc] init];
+    [self.wordRepostitory migrateWords];
     
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenHeight = screenRect.size.height;

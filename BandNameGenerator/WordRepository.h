@@ -16,4 +16,7 @@
 // Legacy
 - (NSString *)getRandomBandName;
 - (NSString *)getRandomStringFromArray: (NSArray *)paramArray;
+
+// Migration
+- (void)migrateWords;
 @end

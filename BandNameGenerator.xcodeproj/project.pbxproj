@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		9D589C7D1894C18700ECCAF4 /* WordRepository.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D589C7C1894C18700ECCAF4 /* WordRepository.m */; };
+		9D589C801894D80400ECCAF4 /* Word.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D589C7F1894D80400ECCAF4 /* Word.m */; };
 		9D9124381890BC62002AFDDE /* LaunchImageRetina.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9124361890BC62002AFDDE /* LaunchImageRetina.png */; };
 		9D9124391890BC62002AFDDE /* LaunchImageRetina4Inch.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */; };
 		9DC232F318943B6B00F189FA /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC232F218943B6B00F189FA /* CoreData.framework */; };
 		9DC232F618943BE900F189FA /* BandNameGenerator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9DC232F418943BE900F189FA /* BandNameGenerator.xcdatamodeld */; };
-		9DC232F91894423200F189FA /* Word.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC232F81894423200F189FA /* Word.m */; };
 		9DFFDF92187CDFA0008D68DD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DFFDF91187CDFA0008D68DD /* Foundation.framework */; };
 		9DFFDF94187CDFA0008D68DD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DFFDF93187CDFA0008D68DD /* CoreGraphics.framework */; };
 		9DFFDF96187CDFA0008D68DD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DFFDF95187CDFA0008D68DD /* UIKit.framework */; };
@@ -46,12 +46,12 @@
 /* Begin PBXFileReference section */
 		9D589C7B1894C18700ECCAF4 /* WordRepository.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordRepository.h; sourceTree = "<group>"; };
 		9D589C7C1894C18700ECCAF4 /* WordRepository.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WordRepository.m; sourceTree = "<group>"; };
+		9D589C7E1894D80400ECCAF4 /* Word.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Word.h; sourceTree = "<group>"; };
+		9D589C7F1894D80400ECCAF4 /* Word.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Word.m; sourceTree = "<group>"; };
 		9D9124361890BC62002AFDDE /* LaunchImageRetina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImageRetina.png; path = BandNameGenerator/LaunchImageRetina.png; sourceTree = "<group>"; };
 		9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImageRetina4Inch.png; path = BandNameGenerator/LaunchImageRetina4Inch.png; sourceTree = "<group>"; };
 		9DC232F218943B6B00F189FA /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		9DC232F518943BE900F189FA /* BandNameGenerator.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BandNameGenerator.xcdatamodel; sourceTree = "<group>"; };
-		9DC232F71894423200F189FA /* Word.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Word.h; sourceTree = "<group>"; };
-		9DC232F81894423200F189FA /* Word.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Word.m; sourceTree = "<group>"; };
 		9DFFDF8E187CDFA0008D68DD /* BandNameGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BandNameGenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DFFDF91187CDFA0008D68DD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9DFFDF93187CDFA0008D68DD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -162,9 +162,9 @@
 				9DFFDF9D187CDFA0008D68DD /* main.m */,
 				9DFFDF9F187CDFA0008D68DD /* BandNameGenerator-Prefix.pch */,
 				9DFFDFCB187CEF69008D68DD /* WordsDictionary.plist */,
+				9D589C7E1894D80400ECCAF4 /* Word.h */,
+				9D589C7F1894D80400ECCAF4 /* Word.m */,
 				9DC232F418943BE900F189FA /* BandNameGenerator.xcdatamodeld */,
-				9DC232F71894423200F189FA /* Word.h */,
-				9DC232F81894423200F189FA /* Word.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -290,12 +290,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DC232F91894423200F189FA /* Word.m in Sources */,
 				9D589C7D1894C18700ECCAF4 /* WordRepository.m in Sources */,
 				9DFFDFAB187CDFA0008D68DD /* ViewController.m in Sources */,
 				9DFFDFA2187CDFA0008D68DD /* AppDelegate.m in Sources */,
 				9DFFDF9E187CDFA0008D68DD /* main.m in Sources */,
 				9DC232F618943BE900F189FA /* BandNameGenerator.xcdatamodeld in Sources */,
+				9D589C801894D80400ECCAF4 /* Word.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

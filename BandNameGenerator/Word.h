@@ -12,8 +12,8 @@
 
 @interface Word : NSManagedObject
 
-@property (nonatomic, retain) NSString * value;
 @property (nonatomic, retain) NSNumber * classification;
 @property (nonatomic, retain) NSNumber * status;
+@property (nonatomic, retain) NSString * value;
 
 @end

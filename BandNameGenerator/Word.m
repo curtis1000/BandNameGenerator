@@ -8,19 +8,11 @@
 
 #import "Word.h"
 
+
 @implementation Word
 
-@dynamic value;
 @dynamic classification;
 @dynamic status;
-
-// Statuses
-NSInteger const NOT_REVIEWED = 1;
-NSInteger const DENIED = 2;
-NSInteger const APPROVED = 3;
-
-// Classification
-NSInteger const ADJECTIVE = 1;
-NSInteger const NOUN = 2;
+@dynamic value;
 
 @end
