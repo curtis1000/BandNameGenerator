@@ -25,6 +25,7 @@
 		9DFFDFBE187CDFA0008D68DD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9DFFDFBC187CDFA0008D68DD /* InfoPlist.strings */; };
 		9DFFDFC0187CDFA0008D68DD /* BandNameGeneratorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DFFDFBF187CDFA0008D68DD /* BandNameGeneratorTests.m */; };
 		9DFFDFCC187CEF69008D68DD /* WordsDictionary.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9DFFDFCB187CEF69008D68DD /* WordsDictionary.plist */; };
+		D60BE4A118D795E200683076 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = D60BE4A018D795E200683076 /* 120.png */; };
 		D6558B6E18915C7600283392 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D6558B6D18915C7600283392 /* Default-568h@2x.png */; };
 		D6558B72189161B700283392 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = D6558B71189161B700283392 /* Background.png */; };
 /* End PBXBuildFile section */
@@ -63,6 +64,7 @@
 		9DFFDFBD187CDFA0008D68DD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9DFFDFBF187CDFA0008D68DD /* BandNameGeneratorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BandNameGeneratorTests.m; sourceTree = "<group>"; };
 		9DFFDFCB187CEF69008D68DD /* WordsDictionary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = WordsDictionary.plist; sourceTree = "<group>"; };
+		D60BE4A018D795E200683076 /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 120.png; path = BandNameGenerator/120.png; sourceTree = "<group>"; };
 		D6558B6D18915C7600283392 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		D6558B71189161B700283392 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = BandNameGenerator/Background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -94,6 +96,7 @@
 		9DFFDF85187CDFA0008D68DD = {
 			isa = PBXGroup;
 			children = (
+				D60BE4A018D795E200683076 /* 120.png */,
 				D6558B71189161B700283392 /* Background.png */,
 				D6558B6D18915C7600283392 /* Default-568h@2x.png */,
 				9D9124361890BC62002AFDDE /* LaunchImageRetina.png */,
@@ -253,6 +256,7 @@
 				9D9124391890BC62002AFDDE /* LaunchImageRetina4Inch.png in Resources */,
 				9DFFDFA5187CDFA0008D68DD /* Main_iPhone.storyboard in Resources */,
 				D6558B72189161B700283392 /* Background.png in Resources */,
+				D60BE4A118D795E200683076 /* 120.png in Resources */,
 				9DFFDF9C187CDFA0008D68DD /* InfoPlist.strings in Resources */,
 				9DFFDFCC187CEF69008D68DD /* WordsDictionary.plist in Resources */,
 			);
@@ -410,7 +414,6 @@
 		9DFFDFC4187CDFA0008D68DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BandNameGenerator/BandNameGenerator-Prefix.pch";
 				INFOPLIST_FILE = "BandNameGenerator/BandNameGenerator-Info.plist";
@@ -422,7 +425,6 @@
 		9DFFDFC5187CDFA0008D68DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BandNameGenerator/BandNameGenerator-Prefix.pch";
 				INFOPLIST_FILE = "BandNameGenerator/BandNameGenerator-Info.plist";
