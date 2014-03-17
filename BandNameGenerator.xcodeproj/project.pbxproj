@@ -43,7 +43,7 @@
 /* Begin PBXFileReference section */
 		9D9124361890BC62002AFDDE /* LaunchImageRetina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImageRetina.png; path = BandNameGenerator/LaunchImageRetina.png; sourceTree = "<group>"; };
 		9D9124371890BC62002AFDDE /* LaunchImageRetina4Inch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImageRetina4Inch.png; path = BandNameGenerator/LaunchImageRetina4Inch.png; sourceTree = "<group>"; };
-		9DFFDF8E187CDFA0008D68DD /* BandNameGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BandNameGenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DFFDF8E187CDFA0008D68DD /* Brand Your Band.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Brand Your Band.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DFFDF91187CDFA0008D68DD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9DFFDF93187CDFA0008D68DD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		9DFFDF95187CDFA0008D68DD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -111,7 +111,7 @@
 		9DFFDF8F187CDFA0008D68DD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9DFFDF8E187CDFA0008D68DD /* BandNameGenerator.app */,
+				9DFFDF8E187CDFA0008D68DD /* Brand Your Band.app */,
 				9DFFDFB2187CDFA0008D68DD /* BandNameGeneratorTests.xctest */,
 			);
 			name = Products;
@@ -190,7 +190,7 @@
 			);
 			name = BandNameGenerator;
 			productName = BandNameGenerator;
-			productReference = 9DFFDF8E187CDFA0008D68DD /* BandNameGenerator.app */;
+			productReference = 9DFFDF8E187CDFA0008D68DD /* Brand Your Band.app */;
 			productType = "com.apple.product-type.application";
 		};
 		9DFFDFB1187CDFA0008D68DD /* BandNameGeneratorTests */ = {
@@ -417,7 +417,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BandNameGenerator/BandNameGenerator-Prefix.pch";
 				INFOPLIST_FILE = "BandNameGenerator/BandNameGenerator-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Brand Your Band";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -428,7 +428,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BandNameGenerator/BandNameGenerator-Prefix.pch";
 				INFOPLIST_FILE = "BandNameGenerator/BandNameGenerator-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Brand Your Band";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
