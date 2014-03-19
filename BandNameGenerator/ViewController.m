@@ -24,6 +24,9 @@
 {
     [super viewDidLoad];
     
+    // lighten up the status bar text color
+    [self setNeedsStatusBarAppearanceUpdate];
+    
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenHeight = screenRect.size.height;
     
@@ -168,6 +171,11 @@
     {
         [self handleGenerate];
     }
+}
+
+// lighten up the status bar text color
+-(UIStatusBarStyle)preferredStatusBarStyle{
+    return UIStatusBarStyleLightContent;
 }
 
 @end

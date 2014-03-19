@@ -2,722 +2,730 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>Nouns</key>
-        <array>
-            <string>Anaconda</string>
-            <string>Branch</string>
-            <string>Calvert</string>
-            <string>Chain</string>
-            <string>Cold</string>
-            <string>Drain</string>
-            <string>Fin</string>
-            <string>Flowers</string>
-            <string>Genesis</string>
-            <string>Gods</string>
-            <string>Gone</string>
-            <string>Horseheads</string>
-            <string>Lp</string>
-            <string>Lions</string>
-            <string>Lizard</string>
-            <string>Minotaur</string>
-            <string>Moscow</string>
-            <string>Nsa</string>
-            <string>Pilate</string>
-            <string>Rover</string>
-            <string>Senate</string>
-            <string>Sheets</string>
-            <string>Stutman</string>
-            <string>Tarzan</string>
-            <string>Tempest</string>
-            <string>Vallombrosa</string>
-            <string>Woods</string>
-            <string>Aardvark</string>
-            <string>Abbey</string>
-            <string>Absinthism</string>
-            <string>Acoustics</string>
-            <string>Aeronautics</string>
-            <string>Aircrewman</string>
-            <string>Amorality</string>
-            <string>Antisophistication</string>
-            <string>Applicability</string>
-            <string>Aromaticity</string>
-            <string>Arrester</string>
-            <string>Authentication</string>
-            <string>Baby-sitter</string>
-            <string>Baklava</string>
-            <string>Barbell</string>
-            <string>Bedazzlement</string>
-            <string>Bee-eater</string>
-            <string>Bibliography</string>
-            <string>Bighorn</string>
-            <string>Blastostyle</string>
-            <string>Blooper</string>
-            <string>Boneheadedness</string>
-            <string>Boswellism</string>
-            <string>Boxholder</string>
-            <string>Brawn</string>
-            <string>Bruiser</string>
-            <string>Bumblepuppy</string>
-            <string>Bushiness</string>
-            <string>Bystander</string>
-            <string>Cacography</string>
-            <string>Capturer</string>
-            <string>Carpentry</string>
-            <string>Castrator</string>
-            <string>Chancellery</string>
-            <string>Checkbook</string>
-            <string>Cherisher</string>
-            <string>Clotheshorse</string>
-            <string>Coexistence</string>
-            <string>Conceptualization</string>
-            <string>Conditioning</string>
-            <string>Congregation</string>
-            <string>Considerance</string>
-            <string>Constitutor</string>
-            <string>Constructivism</string>
-            <string>Continentality</string>
-            <string>Convenance</string>
-            <string>Courgette</string>
-            <string>Coven</string>
-            <string>Coyness</string>
-            <string>Creditor</string>
-            <string>Crotch</string>
-            <string>Crowdedness</string>
-            <string>Daybreak</string>
-            <string>Declinometer</string>
-            <string>Defence</string>
-            <string>Defiance</string>
-            <string>Defilement</string>
-            <string>Descanter</string>
-            <string>Deviance</string>
-            <string>Deviousness</string>
-            <string>Devotion</string>
-            <string>Digitization</string>
-            <string>Diploe</string>
-            <string>Distinguisher</string>
-            <string>Dollyman</string>
-            <string>Downfall</string>
-            <string>Dreamboat</string>
-            <string>Drifter</string>
-            <string>Drippage</string>
-            <string>Drumbeat</string>
-            <string>Dungaree</string>
-            <string>Egotism</string>
-            <string>Electrolyser</string>
-            <string>Elk</string>
-            <string>Entomology</string>
-            <string>Epiphany</string>
-            <string>Eraser</string>
-            <string>Ethyl</string>
-            <string>Evolution</string>
-            <string>Expenditure</string>
-            <string>Eyebath</string>
-            <string>Eyeblack</string>
-            <string>Eyeshade</string>
-            <string>Fascinator</string>
-            <string>Fathomlessness</string>
-            <string>Feedbag</string>
-            <string>Fertility</string>
-            <string>Fetish</string>
-            <string>Fighter-bomber</string>
-            <string>Figuration</string>
-            <string>Fire-raiser</string>
-            <string>Fishnet</string>
-            <string>Flavine</string>
-            <string>Flywheel</string>
-            <string>Font</string>
-            <string>Fortunetelling</string>
-            <string>Freedom</string>
-            <string>Fulfillment</string>
-            <string>Funfest</string>
-            <string>Glaringness</string>
-            <string>Glass-blowing</string>
-            <string>Glossiness</string>
-            <string>Goddess</string>
-            <string>Goldsmith</string>
-            <string>Gourde</string>
-            <string>Grandniece</string>
-            <string>Gymnasiast</string>
-            <string>Hairpin</string>
-            <string>Half-liter</string>
-            <string>Hamburger</string>
-            <string>Handyman</string>
-            <string>Harmonica</string>
-            <string>Hauler</string>
-            <string>Headlock</string>
-            <string>Heretic</string>
-            <string>Heroine</string>
-            <string>Hoarhound</string>
-            <string>Humiliation</string>
-            <string>Hypercorrection</string>
-            <string>Hyperparasite</string>
-            <string>Hypertonicity</string>
-            <string>Hypochondria</string>
-            <string>Hypoglycemia</string>
-            <string>Ichor</string>
-            <string>Ideology</string>
-            <string>Idol</string>
-            <string>Illuminance</string>
-            <string>Inclosure</string>
-            <string>Incoherence</string>
-            <string>Incriminator</string>
-            <string>Ineffectiveness</string>
-            <string>Inextensibility</string>
-            <string>Inflammation</string>
-            <string>Injustice</string>
-            <string>Insectarium</string>
-            <string>Inspiration</string>
-            <string>Insurer</string>
-            <string>Interfertility</string>
-            <string>Invigorator</string>
-            <string>Irrevocability</string>
-            <string>Jubilation</string>
-            <string>Knucklebone</string>
-            <string>Laryngitis</string>
-            <string>Larynx</string>
-            <string>Leatherfish</string>
-            <string>Legacy</string>
-            <string>Leprechaun</string>
-            <string>Mamoncillo</string>
-            <string>Mandolin</string>
-            <string>Maritage</string>
-            <string>Meeting</string>
-            <string>Microscopist</string>
-            <string>Minidress</string>
-            <string>Miracle</string>
-            <string>Modification</string>
-            <string>Mongolism</string>
-            <string>Monument</string>
-            <string>Motorboating</string>
-            <string>Muu-muu</string>
-            <string>Mystery</string>
-            <string>Mythography</string>
-            <string>Neutralise</string>
-            <string>Newspaper</string>
-            <string>Nonconductor</string>
-            <string>Nondeliriousness</string>
-            <string>Nonpermissiveness</string>
-            <string>Nostril</string>
-            <string>Nucleonics</string>
-            <string>Nuncle</string>
-            <string>Nunnery</string>
-            <string>Obstructor</string>
-            <string>Oceanographer</string>
-            <string>Outshot</string>
-            <string>Overfearfulness</string>
-            <string>Overferventness</string>
-            <string>Overindulgence</string>
-            <string>Overpersuasion</string>
-            <string>Overrationalization</string>
-            <string>Overreflectiveness</string>
-            <string>Oversight</string>
-            <string>Pantihose</string>
-            <string>Paperwork</string>
-            <string>Parallelogram</string>
-            <string>Pastelist</string>
-            <string>Penknife</string>
-            <string>Pentangle</string>
-            <string>Percussiveness</string>
-            <string>Perpetuation</string>
-            <string>Pharmacist</string>
-            <string>Plumbery</string>
-            <string>Postmillennialism</string>
-            <string>Preconspiracy</string>
-            <string>Predaylight</string>
-            <string>Protectionism</string>
-            <string>Protozoologist</string>
-            <string>Psychoacoustics</string>
-            <string>Psychogenesis</string>
-            <string>Publication</string>
-            <string>Punter</string>
-            <string>Pushcard</string>
-            <string>Pyjama</string>
-            <string>Receptor</string>
-            <string>Relativist</string>
-            <string>Rhythm</string>
-            <string>Roughneck</string>
-            <string>Rubella</string>
-            <string>Saturation</string>
-            <string>Scaremongering</string>
-            <string>Science</string>
-            <string>Scorcher</string>
-            <string>Scorpionfish</string>
-            <string>Scrumpy</string>
-            <string>Self-denial</string>
-            <string>Self-worth</string>
-            <string>Semidesert</string>
-            <string>Semifinalist</string>
-            <string>Sharpshooter</string>
-            <string>Sinner</string>
-            <string>Siren</string>
-            <string>Skywriting</string>
-            <string>Songstress</string>
-            <string>Sphincter</string>
-            <string>Spinach</string>
-            <string>Stealer</string>
-            <string>Streamer</string>
-            <string>Stuffing</string>
-            <string>Stupidity</string>
-            <string>Stupidness</string>
-            <string>Subagent</string>
-            <string>Sublibrarian</string>
-            <string>Superagency</string>
-            <string>Superindifference</string>
-            <string>Supersympathy</string>
-            <string>Swager</string>
-            <string>Sweatshop</string>
-            <string>Swordmanship</string>
-            <string>Symptosis</string>
-            <string>Tarnation</string>
-            <string>Teenager</string>
-            <string>Thigh</string>
-            <string>Topspin</string>
-            <string>Tracheotomy</string>
-            <string>Transponder</string>
-            <string>Unapologizing</string>
-            <string>Underdog</string>
-            <string>Unpredictability</string>
-            <string>Urination</string>
-            <string>Vanity</string>
-            <string>Vocab</string>
-            <string>Volt</string>
-            <string>Wavey</string>
-            <string>Whisperer</string>
-            <string>Widower</string>
-            <string>Wisdom</string>
-            <string>Zucchini</string>
-        </array><key>Adjectives</key><array><string>Nordic</string>
-            <string>Abdominous</string>
-            <string>Aberrational</string>
-            <string>Abrupt</string>
-            <string>Absorbable</string>
-            <string>Acceptable</string>
-            <string>Advantageous</string>
-            <string>Affectional</string>
-            <string>Aggressive</string>
-            <string>Antiempirical</string>
-            <string>Antinormal</string>
-            <string>Armless</string>
-            <string>Arresting</string>
-            <string>Arythmic</string>
-            <string>Au gratin</string>
-            <string>Autoerotic</string>
-            <string>Awesome</string>
-            <string>Bacterial</string>
-            <string>Biotic</string>
-            <string>Black-hearted</string>
-            <string>Blueish</string>
-            <string>Bossy</string>
-            <string>Bounceable</string>
-            <string>Burdenless</string>
-            <string>Busiest</string>
-            <string>Butcherly</string>
-            <string>Buttonless</string>
-            <string>Calculated</string>
-            <string>Candid</string>
-            <string>Catalytical</string>
-            <string>Cheerier</string>
-            <string>Chronological</string>
-            <string>Chumpish</string>
-            <string>Circumrotatory</string>
-            <string>Cliqueless</string>
-            <string>Cloakless</string>
-            <string>Clumsier</string>
-            <string>Comical</string>
-            <string>Communalistic</string>
-            <string>Compatible</string>
-            <string>Complementary</string>
-            <string>Compulsory</string>
-            <string>Compunctious</string>
-            <string>Confirmed</string>
-            <string>Conjugative</string>
-            <string>Considered</string>
-            <string>Convenient</string>
-            <string>Copasetic</string>
-            <string>Cortical</string>
-            <string>Creakiest</string>
-            <string>Creepiest</string>
-            <string>Crinklier</string>
-            <string>Crummier</string>
-            <string>Cryptographal</string>
-            <string>Cybernetic</string>
-            <string>Dateless</string>
-            <string>Day-by-day</string>
-            <string>Demonstrable</string>
-            <string>Designed</string>
-            <string>Disciplelike</string>
-            <string>Diseased</string>
-            <string>Dissuasive</string>
-            <string>Distinct</string>
-            <string>Distributable</string>
-            <string>Dozy</string>
-            <string>Dreary</string>
-            <string>Ectogenetic</string>
-            <string>Educated</string>
-            <string>Electrophonic</string>
-            <string>Enabling</string>
-            <string>Engaged</string>
-            <string>Erodable</string>
-            <string>Evil-eyed</string>
-            <string>Exospherical</string>
-            <string>Expanded</string>
-            <string>Fated</string>
-            <string>Faulty</string>
-            <string>Favourable</string>
-            <string>Feral</string>
-            <string>Fireless</string>
-            <string>Flightless</string>
-            <string>Floating</string>
-            <string>Floaty</string>
-            <string>Flowered</string>
-            <string>Flukey</string>
-            <string>Foreign-aid</string>
-            <string>Fortunate</string>
-            <string>Four-way</string>
-            <string>Fruitive</string>
-            <string>Fruity</string>
-            <string>Futuristic</string>
-            <string>Garreted</string>
-            <string>Generable</string>
-            <string>Generic</string>
-            <string>Girlish</string>
-            <string>Gleety</string>
-            <string>Glycaemic</string>
-            <string>Gnarled</string>
-            <string>Goofier</string>
-            <string>Gouty</string>
-            <string>Gripeful</string>
-            <string>Grizzliest</string>
-            <string>Groomish</string>
-            <string>Hairbrained</string>
-            <string>Half-deprecating</string>
-            <string>Half-filled</string>
-            <string>Half-hard</string>
-            <string>Half-joking</string>
-            <string>Half-languaged</string>
-            <string>Half-minded</string>
-            <string>Half-oriental</string>
-            <string>Half-quixotic</string>
-            <string>Happiest</string>
-            <string>Hard-boiled</string>
-            <string>Hard-working</string>
-            <string>Harmonious</string>
-            <string>Heartbreaking</string>
-            <string>Herbivorous</string>
-            <string>Hexametric</string>
-            <string>Homoplastic</string>
-            <string>Horoscopic</string>
-            <string>Hot-dipped</string>
-            <string>Hyperritualistic</string>
-            <string>Imaginative</string>
-            <string>Improvisatory</string>
-            <string>Incalculable</string>
-            <string>Incapable</string>
-            <string>Indecipherable</string>
-            <string>Indiscretionary</string>
-            <string>Informal</string>
-            <string>Inhabitable</string>
-            <string>Insistent</string>
-            <string>Insufficient</string>
-            <string>Intact</string>
-            <string>Intelligible</string>
-            <string>Intermediatory</string>
-            <string>Intersystematic</string>
-            <string>Inversive</string>
-            <string>Irate</string>
-            <string>Irrecoverable</string>
-            <string>Irresponsible</string>
-            <string>Irreversible</string>
-            <string>Jasminelike</string>
-            <string>Karmic</string>
-            <string>Kidlike</string>
-            <string>Knightly</string>
-            <string>Kookiest</string>
-            <string>Languishing</string>
-            <string>Leery</string>
-            <string>Lethargic</string>
-            <string>Libational</string>
-            <string>Loose-jointed</string>
-            <string>Loungy</string>
-            <string>Loury</string>
-            <string>Low-voltage</string>
-            <string>Luggageless</string>
-            <string>Marginal</string>
-            <string>Marvelous</string>
-            <string>Measurable</string>
-            <string>Mightier</string>
-            <string>Mirrorlike</string>
-            <string>Misunderstood</string>
-            <string>Monocyclic</string>
-            <string>Moronic</string>
-            <string>Moth-eaten</string>
-            <string>Motiveless</string>
-            <string>Mounted</string>
-            <string>Multisegmental</string>
-            <string>Multithreaded</string>
-            <string>Musty</string>
-            <string>Mutagenetic</string>
-            <string>Naughtier</string>
-            <string>Neuroglial</string>
-            <string>Nonapplicative</string>
-            <string>Nonclassical</string>
-            <string>Nondefined</string>
-            <string>Nondenotative</string>
-            <string>Nondiscerning</string>
-            <string>Nonenthusiastic</string>
-            <string>Nonextinct</string>
-            <string>Nongenuine</string>
-            <string>Nongrievous</string>
-            <string>Nonhazardous</string>
-            <string>Nonideal</string>
-            <string>Noninfallible</string>
-            <string>Nonliturgic</string>
-            <string>Nonoccult</string>
-            <string>Nonperishing</string>
-            <string>Nonpervertible</string>
-            <string>Nonpsychotic</string>
-            <string>Nonpunishable</string>
-            <string>Nonreciprocating</string>
-            <string>Nonretinal</string>
-            <string>Nonsaturated</string>
-            <string>Nonsexual</string>
-            <string>Nonskilled</string>
-            <string>Nonvoluble</string>
-            <string>Nonzealous</string>
-            <string>Obtuse</string>
-            <string>Obvious</string>
-            <string>Ornithoid</string>
-            <string>Orthographic</string>
-            <string>Outbound</string>
-            <string>Overconservative</string>
-            <string>Overconsiderate</string>
-            <string>Overcured</string>
-            <string>Overdestructive</string>
-            <string>Overdetailed</string>
-            <string>Overenvious</string>
-            <string>Overexcitable</string>
-            <string>Overexpansive</string>
-            <string>Overfamed</string>
-            <string>Overfanciful</string>
-            <string>Overfavorable</string>
-            <string>Overfunctioning</string>
-            <string>Overhelpful</string>
-            <string>Oversevere</string>
-            <string>Overspeculative</string>
-            <string>Overstrong</string>
-            <string>Paleopsychic</string>
-            <string>Parliamentary</string>
-            <string>Patriarchal</string>
-            <string>Patriotic</string>
-            <string>Pauseful</string>
-            <string>Penalizable</string>
-            <string>Perfoliate</string>
-            <string>Perilous</string>
-            <string>Pesky</string>
-            <string>Pixyish</string>
-            <string>Portliest</string>
-            <string>Postmaniacal</string>
-            <string>Pottiest</string>
-            <string>Pre-darwinian</string>
-            <string>Precomprehensive</string>
-            <string>Prerevolutionary</string>
-            <string>Presystematic</string>
-            <string>Promising</string>
-            <string>Prophetic</string>
-            <string>Protomorphic</string>
-            <string>Pseudobenevolent</string>
-            <string>Pseudoclerical</string>
-            <string>Pump-action</string>
-            <string>Punishable</string>
-            <string>Pyrographic</string>
-            <string>Quasi-everlasting</string>
-            <string>Quasi-fascinated</string>
-            <string>Quasi-inferior</string>
-            <string>Quasi-lamented</string>
-            <string>Questionable</string>
-            <string>Rashlike</string>
-            <string>Ratty</string>
-            <string>Ravishing</string>
-            <string>Recommendable</string>
-            <string>Reconcilable</string>
-            <string>Refrigerative</string>
-            <string>Regrettable</string>
-            <string>Reluctant</string>
-            <string>Repunishable</string>
-            <string>Reputable</string>
-            <string>Resemblant</string>
-            <string>Revulsionary</string>
-            <string>Roily</string>
-            <string>Rudish</string>
-            <string>Sacrosciatic</string>
-            <string>Sainted</string>
-            <string>Sapheaded</string>
-            <string>Saturated</string>
-            <string>Schoolgirlish</string>
-            <string>Scientific</string>
-            <string>Segmentary</string>
-            <string>Self-acting</string>
-            <string>Self-disserving</string>
-            <string>Self-indulgent</string>
-            <string>Self-locating</string>
-            <string>Self-maimed</string>
-            <string>Self-ruined</string>
-            <string>Semiarticulate</string>
-            <string>Seminationalized</string>
-            <string>Sexiest</string>
-            <string>Sheeniest</string>
-            <string>Shieldless</string>
-            <string>Shoeless</string>
-            <string>Shuttlelike</string>
-            <string>Slaphappy</string>
-            <string>Sleazier</string>
-            <string>Sloppiest</string>
-            <string>Slutty</string>
-            <string>Smash-and-grab</string>
-            <string>Snaggle-toothed</string>
-            <string>Sober-minded</string>
-            <string>Sourceless</string>
-            <string>Spatial</string>
-            <string>Sphagnous</string>
-            <string>Spriteless</string>
-            <string>Spunkiest</string>
-            <string>Stenochoric</string>
-            <string>Stubbly</string>
-            <string>Subcutaneous</string>
-            <string>Subnasal</string>
-            <string>Super-smooth</string>
-            <string>Superattractive</string>
-            <string>Superhearty</string>
-            <string>Superthorough</string>
-            <string>Supervigilant</string>
-            <string>Superwealthy</string>
-            <string>Suspicious</string>
-            <string>Sweaty</string>
-            <string>Tabulable</string>
-            <string>Taxonomical</string>
-            <string>Terrific</string>
-            <string>Time-honored</string>
-            <string>Toneless</string>
-            <string>Topographic</string>
-            <string>Tottering</string>
-            <string>Transcontinental</string>
-            <string>Transubstantial</string>
-            <string>Treasonous</string>
-            <string>Trifold</string>
-            <string>Tyrannical</string>
-            <string>Unaesthetic</string>
-            <string>Unannounced</string>
-            <string>Unassailing</string>
-            <string>Unauspicious</string>
-            <string>Unbitten</string>
-            <string>Unblamed</string>
-            <string>Unbrewed</string>
-            <string>Unbright</string>
-            <string>Unbudging</string>
-            <string>Uncalculated</string>
-            <string>Uncanny</string>
-            <string>Uncensured</string>
-            <string>Uncertifiable</string>
-            <string>Unclamorous</string>
-            <string>Uncluttered</string>
-            <string>Uncondoled</string>
-            <string>Unconfining</string>
-            <string>Unconfronted</string>
-            <string>Uncreatable</string>
-            <string>Uncrumpling</string>
-            <string>Undecrepit</string>
-            <string>Undefined</string>
-            <string>Undelighted</string>
-            <string>Undenounced</string>
-            <string>Undersaturated</string>
-            <string>Undiscriminating</string>
-            <string>Undisplayed</string>
-            <string>Undissolvable</string>
-            <string>Undissolved</string>
-            <string>Undomesticated</string>
-            <string>Uneasy</string>
-            <string>Unemergent</string>
-            <string>Unemotional</string>
-            <string>Unfashioned</string>
-            <string>Unfibred</string>
-            <string>Unforgone</string>
-            <string>Ungenerous</string>
-            <string>Ungilded</string>
-            <string>Ungnarled</string>
-            <string>Unhabitable</string>
-            <string>Unhurtful</string>
-            <string>Unidentifiable</string>
-            <string>Uninsinuative</string>
-            <string>Unintermitting</string>
-            <string>Uninvestigated</string>
-            <string>Unlamented</string>
-            <string>Unlegible</string>
-            <string>Unloveable</string>
-            <string>Unludicrous</string>
-            <string>Unlustered</string>
-            <string>Unmanicured</string>
-            <string>Unmannered</string>
-            <string>Unmasked</string>
-            <string>Unmerciful</string>
-            <string>Unofficiated</string>
-            <string>Unpeaceful</string>
-            <string>Unprecedented</string>
-            <string>Unprevalent</string>
-            <string>Unpreventive</string>
-            <string>Unpricked</string>
-            <string>Unranging</string>
-            <string>Unreasoned</string>
-            <string>Unrelinquishing</string>
-            <string>Unreproachful</string>
-            <string>Unrevoked</string>
-            <string>Unsatiable</string>
-            <string>Unsatisfactory</string>
-            <string>Unscorned</string>
-            <string>Unscratchable</string>
-            <string>Unserene</string>
-            <string>Unshepherded</string>
-            <string>Unsleepy</string>
-            <string>Unsnagged</string>
-            <string>Unstrangled</string>
-            <string>Unstringed</string>
-            <string>Unsubsidized</string>
-            <string>Unsubverted</string>
-            <string>Untheological</string>
-            <string>Unthrilled</string>
-            <string>Untidied</string>
-            <string>Untramped</string>
-            <string>Untransmissible</string>
-            <string>Ununitable</string>
-            <string>Unvicious</string>
-            <string>Unvoided</string>
-            <string>Unvowed</string>
-            <string>Unwavered</string>
-            <string>Unweakened</string>
-            <string>Unwhimsical</string>
-            <string>Unwilting</string>
-            <string>Unwretched</string>
-            <string>Uptight</string>
-            <string>Verisimilar</string>
-            <string>Verrucose</string>
-            <string>Vestral</string>
-            <string>Viselike</string>
-            <string>Waggly</string>
-            <string>Weak-kneed</string>
-            <string>Weightiest</string>
-            <string>Well-checked</string>
-            <string>Well-civilized</string>
-            <string>Well-cut</string>
-            <string>Well-emphasized</string>
-            <string>Well-manured</string>
-            <string>Well-plowed</string>
-            <string>Well-polished</string>
-            <string>Well-proportioned</string>
-            <string>Wuthering</string>
-            <string>Zoometrical</string>
-            <string>Zoomorphic</string>
-            <string>Zoophoric</string>
-            <string>Zooplastic</string>
-            <string>Zygomorphic</string>
-            <string>Zymogenic</string>
-        </array></dict></plist>
+<dict>
+	<key>Nouns</key>
+	<array>
+<string>Anaconda</string>
+<string>Branch</string>
+<string>Calvert</string>
+<string>Chain</string>
+<string>Cold</string>
+<string>Drain</string>
+<string>Fin</string>
+<string>Flowers</string>
+<string>Genesis</string>
+<string>Gods</string>
+<string>Gone</string>
+<string>Horseheads</string>
+<string>Lions</string>
+<string>Lizard</string>
+<string>Minotaur</string>
+<string>Moscow</string>
+<string>Nsa</string>
+<string>Pilate</string>
+<string>Rover</string>
+<string>Senate</string>
+<string>Sheets</string>
+<string>Stutman</string>
+<string>Tarzan</string>
+<string>Tempest</string>
+<string>Vallombrosa</string>
+<string>Windbreaker</string>
+<string>Woods</string>
+<string>Aardvark</string>
+<string>Abbey</string>
+<string>Absinthism</string>
+<string>Acoustics</string>
+<string>Aeronautics</string>
+<string>Aircrewman</string>
+<string>Amorality</string>
+<string>Antisophistication</string>
+<string>Applicability</string>
+<string>Aromaticity</string>
+<string>Arrester</string>
+<string>Authentication</string>
+<string>Baby-sitter</string>
+<string>Baklava</string>
+<string>Barbell</string>
+<string>Bedazzlement</string>
+<string>Bee-eater</string>
+<string>Bibliography</string>
+<string>Bighorn</string>
+<string>Blastostyle</string>
+<string>Blooper</string>
+<string>Boneheadedness</string>
+<string>Boswellism</string>
+<string>Boxholder</string>
+<string>Brawn</string>
+<string>Bruiser</string>
+<string>Bumblepuppy</string>
+<string>Bushiness</string>
+<string>Bystander</string>
+<string>Cacography</string>
+<string>Capturer</string>
+<string>Carpentry</string>
+<string>Castrator</string>
+<string>Chancellery</string>
+<string>Checkbook</string>
+<string>Cherisher</string>
+<string>Clotheshorse</string>
+<string>Coexistence</string>
+<string>Conceptualization</string>
+<string>Conditioning</string>
+<string>Congregation</string>
+<string>Considerance</string>
+<string>Constitutor</string>
+<string>Constructivism</string>
+<string>Continentality</string>
+<string>Convenance</string>
+<string>Courgette</string>
+<string>Coven</string>
+<string>Coyness</string>
+<string>Creditor</string>
+<string>Crotch</string>
+<string>Crowdedness</string>
+<string>Daybreak</string>
+<string>Declinometer</string>
+<string>Defence</string>
+<string>Defiance</string>
+<string>Defilement</string>
+<string>Descanter</string>
+<string>Deviance</string>
+<string>Deviousness</string>
+<string>Devotion</string>
+<string>Digitization</string>
+<string>Diploe</string>
+<string>Distinguisher</string>
+<string>Dollyman</string>
+<string>Downfall</string>
+<string>Dreamboat</string>
+<string>Drifter</string>
+<string>Drippage</string>
+<string>Drumbeat</string>
+<string>Dungaree</string>
+<string>Egotism</string>
+<string>Electrolyser</string>
+<string>Elk</string>
+<string>Entomology</string>
+<string>Epiphany</string>
+<string>Eraser</string>
+<string>Ethyl</string>
+<string>Evolution</string>
+<string>Expenditure</string>
+<string>Eyebath</string>
+<string>Eyeblack</string>
+<string>Eyeshade</string>
+<string>Fascinator</string>
+<string>Fathomlessness</string>
+<string>Feedbag</string>
+<string>Fertility</string>
+<string>Fetish</string>
+<string>Fighter-bomber</string>
+<string>Figuration</string>
+<string>Fire-raiser</string>
+<string>Fishnet</string>
+<string>Flavine</string>
+<string>Flywheel</string>
+<string>Font</string>
+<string>Fortunetelling</string>
+<string>Freedom</string>
+<string>Fulfillment</string>
+<string>Funfest</string>
+<string>Glaringness</string>
+<string>Glass-blowing</string>
+<string>Glossiness</string>
+<string>Goddess</string>
+<string>Goldsmith</string>
+<string>Gourde</string>
+<string>Grandniece</string>
+<string>Gymnasiast</string>
+<string>Hairpin</string>
+<string>Half-liter</string>
+<string>Hamburger</string>
+<string>Handyman</string>
+<string>Harmonica</string>
+<string>Hauler</string>
+<string>Headlock</string>
+<string>Heretic</string>
+<string>Heroine</string>
+<string>Hoarhound</string>
+<string>Humiliation</string>
+<string>Hypercorrection</string>
+<string>Hyperparasite</string>
+<string>Hypertonicity</string>
+<string>Hypochondria</string>
+<string>Hypoglycemia</string>
+<string>Ichor</string>
+<string>Ideology</string>
+<string>Idol</string>
+<string>Illuminance</string>
+<string>Inclosure</string>
+<string>Incoherence</string>
+<string>Incriminator</string>
+<string>Ineffectiveness</string>
+<string>Inextensibility</string>
+<string>Inflammation</string>
+<string>Injustice</string>
+<string>Insectarium</string>
+<string>Insobriety</string>
+<string>Inspiration</string>
+<string>Insurer</string>
+<string>Interfertility</string>
+<string>Invigorator</string>
+<string>Irrevocability</string>
+<string>Jubilation</string>
+<string>Kitty</string>
+<string>Knucklebone</string>
+<string>Laryngitis</string>
+<string>Larynx</string>
+<string>Leatherfish</string>
+<string>Legacy</string>
+<string>Leprechaun</string>
+<string>Mamoncillo</string>
+<string>Mandolin</string>
+<string>Maritage</string>
+<string>Meeting</string>
+<string>Microscopist</string>
+<string>Minidress</string>
+<string>Miracle</string>
+<string>Misformation</string>
+<string>Modification</string>
+<string>Mongolism</string>
+<string>Monument</string>
+<string>Motorboating</string>
+<string>Muu-muu</string>
+<string>Mystery</string>
+<string>Mythography</string>
+<string>Neutralise</string>
+<string>Newspaper</string>
+<string>Nonconductor</string>
+<string>Nondeliriousness</string>
+<string>Nonpermissiveness</string>
+<string>Nostril</string>
+<string>Nucleonics</string>
+<string>Nuncle</string>
+<string>Nunnery</string>
+<string>Nuthouse</string>
+<string>Obstructor</string>
+<string>Oceanographer</string>
+<string>Outshot</string>
+<string>Overfearfulness</string>
+<string>Overferventness</string>
+<string>Overindulgence</string>
+<string>Overpersuasion</string>
+<string>Overrationalization</string>
+<string>Overreflectiveness</string>
+<string>Oversight</string>
+<string>Pantihose</string>
+<string>Paperwork</string>
+<string>Parallelogram</string>
+<string>Pastelist</string>
+<string>Penknife</string>
+<string>Pentangle</string>
+<string>Percussiveness</string>
+<string>Perpetuation</string>
+<string>Pharmacist</string>
+<string>Plumbery</string>
+<string>Postmillennialism</string>
+<string>Preconspiracy</string>
+<string>Predaylight</string>
+<string>Protectionism</string>
+<string>Protozoologist</string>
+<string>Psychoacoustics</string>
+<string>Psychogenesis</string>
+<string>Publication</string>
+<string>Punter</string>
+<string>Pushcard</string>
+<string>Pyjama</string>
+<string>Receptor</string>
+<string>Relativist</string>
+<string>Rhythm</string>
+<string>Roughneck</string>
+<string>Rubella</string>
+<string>Saturation</string>
+<string>Scaremongering</string>
+<string>Science</string>
+<string>Scorcher</string>
+<string>Scorpionfish</string>
+<string>Scrumpy</string>
+<string>Self-denial</string>
+<string>Self-worth</string>
+<string>Semidesert</string>
+<string>Semifinalist</string>
+<string>Sharpshooter</string>
+<string>Sinner</string>
+<string>Siren</string>
+<string>Skywriting</string>
+<string>Songstress</string>
+<string>Sphincter</string>
+<string>Spinach</string>
+<string>Stealer</string>
+<string>Streamer</string>
+<string>Stuffing</string>
+<string>Stupidity</string>
+<string>Stupidness</string>
+<string>Subagent</string>
+<string>Sublibrarian</string>
+<string>Superagency</string>
+<string>Superindifference</string>
+<string>Supersympathy</string>
+<string>Swager</string>
+<string>Sweatshop</string>
+<string>Swordmanship</string>
+<string>Symptosis</string>
+<string>Tarnation</string>
+<string>Teenager</string>
+<string>Thigh</string>
+<string>Topspin</string>
+<string>Tracheotomy</string>
+<string>Transponder</string>
+<string>Unapologizing</string>
+<string>Underdog</string>
+<string>Unpredictability</string>
+<string>Urination</string>
+<string>Vanity</string>
+<string>Vocab</string>
+<string>Volt</string>
+<string>Wavey</string>
+<string>Whisperer</string>
+<string>Widower</string>
+<string>Wisdom</string>
+<string>Zucchini</string>
+</array><key>Adjectives</key><array><string>Nordic</string>
+<string>Abdominous</string>
+<string>Aberrational</string>
+<string>Abrupt</string>
+<string>Absorbable</string>
+<string>Acceptable</string>
+<string>Advantageous</string>
+<string>Affectional</string>
+<string>Aggressive</string>
+<string>Antiempirical</string>
+<string>Antinormal</string>
+<string>Armless</string>
+<string>Arresting</string>
+<string>Arythmic</string>
+<string>Au gratin</string>
+<string>Autoerotic</string>
+<string>Awesome</string>
+<string>Bacterial</string>
+<string>Biotic</string>
+<string>Black-hearted</string>
+<string>Blueish</string>
+<string>Bossy</string>
+<string>Bounceable</string>
+<string>Burdenless</string>
+<string>Busiest</string>
+<string>Butcherly</string>
+<string>Buttonless</string>
+<string>Calculated</string>
+<string>Candid</string>
+<string>Catalytical</string>
+<string>Cheerier</string>
+<string>Chronological</string>
+<string>Chumpish</string>
+<string>Circumrotatory</string>
+<string>Cliqueless</string>
+<string>Cloakless</string>
+<string>Clumsier</string>
+<string>Comical</string>
+<string>Communalistic</string>
+<string>Compatible</string>
+<string>Complementary</string>
+<string>Compulsory</string>
+<string>Compunctious</string>
+<string>Confirmed</string>
+<string>Conjugative</string>
+<string>Considered</string>
+<string>Convenient</string>
+<string>Copasetic</string>
+<string>Cortical</string>
+<string>Creakiest</string>
+<string>Creepiest</string>
+<string>Crinklier</string>
+<string>Crummier</string>
+<string>Cryptographal</string>
+<string>Cybernetic</string>
+<string>Dateless</string>
+<string>Day-by-day</string>
+<string>Demonstrable</string>
+<string>Designed</string>
+<string>Disciplelike</string>
+<string>Diseased</string>
+<string>Dissuasive</string>
+<string>Distinct</string>
+<string>Distributable</string>
+<string>Dozy</string>
+<string>Dreary</string>
+<string>Ectogenetic</string>
+<string>Educated</string>
+<string>Electrophonic</string>
+<string>Enabling</string>
+<string>Engaged</string>
+<string>Erodable</string>
+<string>Evil-eyed</string>
+<string>Exospherical</string>
+<string>Expanded</string>
+<string>Fated</string>
+<string>Faulty</string>
+<string>Favourable</string>
+<string>Feral</string>
+<string>Fetishlike</string>
+<string>Fireless</string>
+<string>First-generation</string>
+<string>Flea-bitten</string>
+<string>Flightless</string>
+<string>Floating</string>
+<string>Floaty</string>
+<string>Flowered</string>
+<string>Flukey</string>
+<string>Foreign-aid</string>
+<string>Fortunate</string>
+<string>Four-way</string>
+<string>Fruitive</string>
+<string>Fruity</string>
+<string>Futuristic</string>
+<string>Garreted</string>
+<string>Generable</string>
+<string>Generic</string>
+<string>Girlish</string>
+<string>Gleety</string>
+<string>Glycaemic</string>
+<string>Gnarled</string>
+<string>Goofier</string>
+<string>Gouty</string>
+<string>Gripeful</string>
+<string>Grizzliest</string>
+<string>Groomish</string>
+<string>Hairbrained</string>
+<string>Half-deprecating</string>
+<string>Half-filled</string>
+<string>Half-hard</string>
+<string>Half-joking</string>
+<string>Half-languaged</string>
+<string>Half-minded</string>
+<string>Half-oriental</string>
+<string>Half-quixotic</string>
+<string>Happiest</string>
+<string>Hard-boiled</string>
+<string>Hard-working</string>
+<string>Harmonious</string>
+<string>Heartbreaking</string>
+<string>Herbivorous</string>
+<string>Hexametric</string>
+<string>Homoplastic</string>
+<string>Horoscopic</string>
+<string>Hot-dipped</string>
+<string>Hyperritualistic</string>
+<string>Imaginative</string>
+<string>Improvisatory</string>
+<string>Incalculable</string>
+<string>Incapable</string>
+<string>Indecipherable</string>
+<string>Indiscretionary</string>
+<string>Informal</string>
+<string>Inhabitable</string>
+<string>Insistent</string>
+<string>Insufficient</string>
+<string>Intact</string>
+<string>Intelligible</string>
+<string>Intermediatory</string>
+<string>Intersystematic</string>
+<string>Inversive</string>
+<string>Irate</string>
+<string>Irrecoverable</string>
+<string>Irresponsible</string>
+<string>Irreversible</string>
+<string>Jasminelike</string>
+<string>Karmic</string>
+<string>Kidlike</string>
+<string>Knightly</string>
+<string>Kookiest</string>
+<string>Languishing</string>
+<string>Leery</string>
+<string>Lethargic</string>
+<string>Libational</string>
+<string>Loose-jointed</string>
+<string>Loungy</string>
+<string>Loury</string>
+<string>Low-voltage</string>
+<string>Luggageless</string>
+<string>Marginal</string>
+<string>Marvelous</string>
+<string>Measurable</string>
+<string>Mightier</string>
+<string>Mirrorlike</string>
+<string>Misunderstood</string>
+<string>Monocyclic</string>
+<string>Moronic</string>
+<string>Moth-eaten</string>
+<string>Motiveless</string>
+<string>Mounted</string>
+<string>Multisegmental</string>
+<string>Multithreaded</string>
+<string>Musty</string>
+<string>Mutagenetic</string>
+<string>Naughtier</string>
+<string>Neuroglial</string>
+<string>Nonapplicative</string>
+<string>Nonclassical</string>
+<string>Nondefined</string>
+<string>Nondenotative</string>
+<string>Nondiscerning</string>
+<string>Nonenthusiastic</string>
+<string>Nonextinct</string>
+<string>Nongenuine</string>
+<string>Nongrievous</string>
+<string>Nonhazardous</string>
+<string>Nonideal</string>
+<string>Noninfallible</string>
+<string>Nonliturgic</string>
+<string>Nonoccult</string>
+<string>Nonperishing</string>
+<string>Nonpervertible</string>
+<string>Nonpsychotic</string>
+<string>Nonpunishable</string>
+<string>Nonreciprocating</string>
+<string>Nonretinal</string>
+<string>Nonsaturated</string>
+<string>Nonsexual</string>
+<string>Nonskilled</string>
+<string>Nonvoluble</string>
+<string>Nonzealous</string>
+<string>Obtuse</string>
+<string>Obvious</string>
+<string>Ornithoid</string>
+<string>Orthographic</string>
+<string>Outbound</string>
+<string>Overconservative</string>
+<string>Overconsiderate</string>
+<string>Overcured</string>
+<string>Overdestructive</string>
+<string>Overdetailed</string>
+<string>Overenvious</string>
+<string>Overexcitable</string>
+<string>Overexpansive</string>
+<string>Overfamed</string>
+<string>Overfanciful</string>
+<string>Overfavorable</string>
+<string>Overfunctioning</string>
+<string>Overhelpful</string>
+<string>Oversevere</string>
+<string>Overspeculative</string>
+<string>Overstrong</string>
+<string>Paleopsychic</string>
+<string>Parliamentary</string>
+<string>Patriarchal</string>
+<string>Patriotic</string>
+<string>Pauseful</string>
+<string>Penalizable</string>
+<string>Perfoliate</string>
+<string>Perilous</string>
+<string>Pesky</string>
+<string>Pixyish</string>
+<string>Portliest</string>
+<string>Postmaniacal</string>
+<string>Pottiest</string>
+<string>Pre-darwinian</string>
+<string>Precomprehensive</string>
+<string>Prerevolutionary</string>
+<string>Presystematic</string>
+<string>Promising</string>
+<string>Prophetic</string>
+<string>Protomorphic</string>
+<string>Pseudobenevolent</string>
+<string>Pseudoclerical</string>
+<string>Pump-action</string>
+<string>Punishable</string>
+<string>Pyrographic</string>
+<string>Quasi-everlasting</string>
+<string>Quasi-fascinated</string>
+<string>Quasi-inferior</string>
+<string>Quasi-lamented</string>
+<string>Questionable</string>
+<string>Rashlike</string>
+<string>Ratty</string>
+<string>Ravishing</string>
+<string>Recommendable</string>
+<string>Reconcilable</string>
+<string>Refrigerative</string>
+<string>Regrettable</string>
+<string>Reluctant</string>
+<string>Repunishable</string>
+<string>Reputable</string>
+<string>Resemblant</string>
+<string>Revulsionary</string>
+<string>Roily</string>
+<string>Rudish</string>
+<string>Sacrosciatic</string>
+<string>Sainted</string>
+<string>Sapheaded</string>
+<string>Saturated</string>
+<string>Schoolgirlish</string>
+<string>Scientific</string>
+<string>Segmentary</string>
+<string>Self-acting</string>
+<string>Self-disserving</string>
+<string>Self-indulgent</string>
+<string>Self-locating</string>
+<string>Self-maimed</string>
+<string>Self-ruined</string>
+<string>Semiarticulate</string>
+<string>Seminationalized</string>
+<string>Sexiest</string>
+<string>Sheeniest</string>
+<string>Shieldless</string>
+<string>Shoeless</string>
+<string>Shuttlelike</string>
+<string>Slaphappy</string>
+<string>Sleazier</string>
+<string>Sloppiest</string>
+<string>Slutty</string>
+<string>Smash-and-grab</string>
+<string>Snaggle-toothed</string>
+<string>Sober-minded</string>
+<string>Sourceless</string>
+<string>Spatial</string>
+<string>Sphagnous</string>
+<string>Spriteless</string>
+<string>Spunkiest</string>
+<string>Stenochoric</string>
+<string>Stubbly</string>
+<string>Subcutaneous</string>
+<string>Subnasal</string>
+<string>Super-smooth</string>
+<string>Superattractive</string>
+<string>Superhearty</string>
+<string>Superthorough</string>
+<string>Supervigilant</string>
+<string>Superwealthy</string>
+<string>Suspicious</string>
+<string>Sweaty</string>
+<string>Tabulable</string>
+<string>Taxonomical</string>
+<string>Terrific</string>
+<string>Time-honored</string>
+<string>Toneless</string>
+<string>Topographic</string>
+<string>Tottering</string>
+<string>Transcontinental</string>
+<string>Transubstantial</string>
+<string>Treasonous</string>
+<string>Trifold</string>
+<string>Tyrannical</string>
+<string>Unaesthetic</string>
+<string>Unannounced</string>
+<string>Unassailing</string>
+<string>Unauspicious</string>
+<string>Unbitten</string>
+<string>Unblamed</string>
+<string>Unbrewed</string>
+<string>Unbright</string>
+<string>Unbudging</string>
+<string>Uncalculated</string>
+<string>Uncanny</string>
+<string>Uncensured</string>
+<string>Uncertifiable</string>
+<string>Unclamorous</string>
+<string>Uncluttered</string>
+<string>Uncondoled</string>
+<string>Unconfining</string>
+<string>Unconfronted</string>
+<string>Uncreatable</string>
+<string>Uncrumpling</string>
+<string>Undecrepit</string>
+<string>Undefined</string>
+<string>Undelighted</string>
+<string>Undenounced</string>
+<string>Undersaturated</string>
+<string>Undiscriminating</string>
+<string>Undisplayed</string>
+<string>Undissolvable</string>
+<string>Undissolved</string>
+<string>Undomesticated</string>
+<string>Uneasy</string>
+<string>Unemergent</string>
+<string>Unemotional</string>
+<string>Unfashioned</string>
+<string>Unfibred</string>
+<string>Unforgone</string>
+<string>Ungenerous</string>
+<string>Ungilded</string>
+<string>Ungnarled</string>
+<string>Unhabitable</string>
+<string>Unhurtful</string>
+<string>Unidentifiable</string>
+<string>Uninsinuative</string>
+<string>Unintermitting</string>
+<string>Uninvestigated</string>
+<string>Unlamented</string>
+<string>Unlegible</string>
+<string>Unloveable</string>
+<string>Unludicrous</string>
+<string>Unlustered</string>
+<string>Unmanicured</string>
+<string>Unmannered</string>
+<string>Unmasked</string>
+<string>Unmerciful</string>
+<string>Unofficiated</string>
+<string>Unpeaceful</string>
+<string>Unprecedented</string>
+<string>Unprevalent</string>
+<string>Unpreventive</string>
+<string>Unpricked</string>
+<string>Unranging</string>
+<string>Unreasoned</string>
+<string>Unrelinquishing</string>
+<string>Unreproachful</string>
+<string>Unrevoked</string>
+<string>Unsalted</string>
+<string>Unsatiable</string>
+<string>Unsatisfactory</string>
+<string>Unscorned</string>
+<string>Unscratchable</string>
+<string>Unserene</string>
+<string>Unshepherded</string>
+<string>Unsleepy</string>
+<string>Unsnagged</string>
+<string>Unstrangled</string>
+<string>Unstringed</string>
+<string>Unsubsidized</string>
+<string>Unsubverted</string>
+<string>Untheological</string>
+<string>Unthrilled</string>
+<string>Untidied</string>
+<string>Untramped</string>
+<string>Untransmissible</string>
+<string>Ununitable</string>
+<string>Unvicious</string>
+<string>Unvoided</string>
+<string>Unvowed</string>
+<string>Unwavered</string>
+<string>Unweakened</string>
+<string>Unwhimsical</string>
+<string>Unwilting</string>
+<string>Unwretched</string>
+<string>Uptight</string>
+<string>Verisimilar</string>
+<string>Verrucose</string>
+<string>Vestral</string>
+<string>Viselike</string>
+<string>Waggly</string>
+<string>Weak-kneed</string>
+<string>Weightiest</string>
+<string>Well-checked</string>
+<string>Well-civilized</string>
+<string>Well-cut</string>
+<string>Well-emphasized</string>
+<string>Well-manured</string>
+<string>Well-plowed</string>
+<string>Well-polished</string>
+<string>Well-proportioned</string>
+<string>Wuthering</string>
+<string>Zoometrical</string>
+<string>Zoomorphic</string>
+<string>Zoophoric</string>
+<string>Zooplastic</string>
+<string>Zygomorphic</string>
+<string>Zymogenic</string>
+</array></dict></plist>
