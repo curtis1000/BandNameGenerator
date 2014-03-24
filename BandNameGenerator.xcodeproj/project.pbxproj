@@ -26,6 +26,8 @@
 		9DFFDFC0187CDFA0008D68DD /* BandNameGeneratorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DFFDFBF187CDFA0008D68DD /* BandNameGeneratorTests.m */; };
 		9DFFDFCC187CEF69008D68DD /* WordsDictionary.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9DFFDFCB187CEF69008D68DD /* WordsDictionary.plist */; };
 		D60BE4A118D795E200683076 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = D60BE4A018D795E200683076 /* 120.png */; };
+		D61CF1C618E0D064002BA0C4 /* 76.png in Resources */ = {isa = PBXBuildFile; fileRef = D61CF1C418E0D064002BA0C4 /* 76.png */; };
+		D61CF1C718E0D064002BA0C4 /* 152.png in Resources */ = {isa = PBXBuildFile; fileRef = D61CF1C518E0D064002BA0C4 /* 152.png */; };
 		D6558B6E18915C7600283392 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D6558B6D18915C7600283392 /* Default-568h@2x.png */; };
 		D6558B72189161B700283392 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = D6558B71189161B700283392 /* Background.png */; };
 /* End PBXBuildFile section */
@@ -65,6 +67,8 @@
 		9DFFDFBF187CDFA0008D68DD /* BandNameGeneratorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BandNameGeneratorTests.m; sourceTree = "<group>"; };
 		9DFFDFCB187CEF69008D68DD /* WordsDictionary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = WordsDictionary.plist; sourceTree = "<group>"; };
 		D60BE4A018D795E200683076 /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 120.png; path = BandNameGenerator/120.png; sourceTree = "<group>"; };
+		D61CF1C418E0D064002BA0C4 /* 76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 76.png; sourceTree = "<group>"; };
+		D61CF1C518E0D064002BA0C4 /* 152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 152.png; sourceTree = "<group>"; };
 		D6558B6D18915C7600283392 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		D6558B71189161B700283392 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = BandNameGenerator/Background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -131,6 +135,9 @@
 		9DFFDF97187CDFA0008D68DD /* BandNameGenerator */ = {
 			isa = PBXGroup;
 			children = (
+				D61CF1C818E0D15F002BA0C4 /* iPad */,
+				D61CF1C418E0D064002BA0C4 /* 76.png */,
+				D61CF1C518E0D064002BA0C4 /* 152.png */,
 				9DFFDFA0187CDFA0008D68DD /* AppDelegate.h */,
 				9DFFDFA1187CDFA0008D68DD /* AppDelegate.m */,
 				9DFFDFA3187CDFA0008D68DD /* Main_iPhone.storyboard */,
@@ -171,6 +178,13 @@
 				9DFFDFBC187CDFA0008D68DD /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D61CF1C818E0D15F002BA0C4 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = iPad;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,6 +234,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = Morsekode;
 				TargetAttributes = {
+					9DFFDF8D187CDFA0008D68DD = {
+						DevelopmentTeam = AYWDSK98P2;
+					};
 					9DFFDFB1187CDFA0008D68DD = {
 						TestTargetID = 9DFFDF8D187CDFA0008D68DD;
 					};
@@ -250,10 +267,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DFFDFA8187CDFA0008D68DD /* Main_iPad.storyboard in Resources */,
+				D61CF1C618E0D064002BA0C4 /* 76.png in Resources */,
 				D6558B6E18915C7600283392 /* Default-568h@2x.png in Resources */,
 				9DFFDFAD187CDFA0008D68DD /* Images.xcassets in Resources */,
 				9D9124381890BC62002AFDDE /* LaunchImageRetina.png in Resources */,
 				9D9124391890BC62002AFDDE /* LaunchImageRetina4Inch.png in Resources */,
+				D61CF1C718E0D064002BA0C4 /* 152.png in Resources */,
 				9DFFDFA5187CDFA0008D68DD /* Main_iPhone.storyboard in Resources */,
 				D6558B72189161B700283392 /* Background.png in Resources */,
 				D60BE4A118D795E200683076 /* 120.png in Resources */,
@@ -354,7 +373,8 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Morsekode (AYWDSK98P2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Morsekode (AYWDSK98P2)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -372,8 +392,10 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "D9769B00-F34F-46D9-B556-BE4CC5737E60";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
 			};
 			name = Debug;
 		};
@@ -394,7 +416,8 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Morsekode (AYWDSK98P2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Morsekode (AYWDSK98P2)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -405,6 +428,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PROVISIONING_PROFILE = "D9769B00-F34F-46D9-B556-BE4CC5737E60";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -414,10 +438,15 @@
 		9DFFDFC4187CDFA0008D68DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BandNameGenerator/BandNameGenerator-Prefix.pch";
 				INFOPLIST_FILE = "BandNameGenerator/BandNameGenerator-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "Brand Your Band";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -425,10 +454,15 @@
 		9DFFDFC5187CDFA0008D68DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BandNameGenerator/BandNameGenerator-Prefix.pch";
 				INFOPLIST_FILE = "BandNameGenerator/BandNameGenerator-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "Brand Your Band";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
